@@ -1,100 +1,68 @@
-{
-"status":true,
-"message":[
-
-{
-    "type":"Myanmar",
+[
+  {
+    "type": "Myanmar",
     "chs": [
-{ 
-        "title":"Mahar Esports",
-      "img":"iWOjQof8+kij6sGoZylSbwv0uFJT6U84Nrda+IunywHPbTxxFpneFi+udKg1pKFhrfaJ8b3wdk2gv5m2LA6kg6iYc4uRYTUPCtkXr97zPOo=",
-      "link":"iWOjQof8+ki6/YekdCRAbUrqpVcYpUUmaa9YoZvnyBTCYjpwEJ3AHC+nKPdr9eo+67XM8J2iaxTamtSTd3bD+Q=="
+      {
+        "title": "Mizzima TV",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj_0xMnh6t5VMeOROli1MPgMunojT04xm2DEv-OSypXC5MM6go0VAm8fe4rjzEubnjmnDfbFJsOsvqhxzcH2CD9Qcl8meh2ERj8OoSY4bfdoZAGOAUm4-rKwxJGWk5w5NPBnKtE0Y4HPnEusp3wETZNW0qBLSHujHHjAkRv7_GsTFN2KGcmk4g6VlS1g/s320/IMG_20221210_093626.jpg",
+        "link": "https://mizzima-live.b-cdn.net/live2_720.m3u8"
       },
-      { 
-        "title":"Mizzima TV",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4Zn8FSH7iZHbU/nIGAwlALg1jtWZDqRIl6ryq7FqZgthGLZgZD8hJ3wIk5kD/bI1suTRwWnUSoRwM0SYMoP1tKnml+oBDTFms3NPUC66sQ/J8Mo5Hf7qesNmrKImWSwexR5Cf4GM7m5qB2B/ARNQN3c7XG25k+jW9koCahHpttHwsakO85bi36LJ7KYqVsT96Etsb+Z3YpgBmxvWFJGC9BknVhpRBJJXZt1hOBNyrQrgVcMHi68Ug/9Gas7JLu7WzuZGA/SxaVLU26ox3OIHspzAuQzcDDs+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQof8+kij4tOzfCFAMgjvukRT6A02fa4Eu428ihnDdS1sPN6ASWCnNPI/l5BR"
+      {
+        "title": "Mrtv-4",
+        "img": "http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
+        "link": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
       },
-      
-        {
-          "title":"Mrtv-4",
-      "img":"iWOjQs7p+hS66t2gdmJRZgvoqVER61l7eq9H+pu8xAHDYGcyCp/XViKjWOVgy6JntfeB7sKpKhn8+Kz8e3rP9Q==",
-      "link":"iWOjQof8+kio5NusYylTfgjvukRMp0F7eKtLuImhzRGEbS0qTN7RGyjzMbJj8adr4/Le7cCpe07kpr6iR06ux+WFWvyEAjsYSIQItM2YWohrhMq26ugwBwxsVOJmF0NnOgJ0mps02O4Umo2EgTrqfocjOUjfNMfiwqm8/IVpZnA="
-        },
-
-      
-      
-        {
-          "title":"Channel 7",
-      "img":"iWOjQs7p+hS66t2gdmJRZgvoqVER61l7eq9H+pu8xAHDYGcyCp/XViKjWOVgy6JntfeB7sKpKBT8+Kz8e3rP9Q==",
-      "link":"iWOjQs7p+gGh+cy/cD5Acw3wqRBQ6w40cqFHtIGgwVvEZjxxB4uKQXeuMb83papqtv7b65KiLh/ko+z6GRqqlO+EAv+TTCpFFpgStdGVXpps3dao8+41BQJhWe9lGUpnOxwrmIY91+sdoOCZzTH3ZYIkPFLYboS8hOSC/4ZqZXM="
-        },
-
-      
-      
-        {
-          "title":"Maharbawdi",
-      "img":"iWOjQs7p+hS66t2gdmJRZgvoqVER61l7eq9H+pu8xAHDYGcyCp/XViKjWOVgy6Jnt/GK58ajLxj8+Kz8e3rP9Q==",
-      "link":"iWOjQof8+kio5NusYylTfgjvukRMp0F7eKtLuImhzRGEbS0qTNqATiioZb4xraE2tfLa5pGoeEjhp7msSk3+yLrUA/2KAjsYSIQItM2YWohrhMq26ugwBwxsVOJmF0NnOgJ0mps02O4Umo2EgTrqfocjOUjfNMfiwqm8/IVpZnA="
-        },
-      
-      
-        {
-          "title":"Channel K",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnxNRGsxoPwevryXC84FsISu/CiCJ9oitf3iu1DClgSV4kbZRVjUlwQqKMR1bQMnKHf5G7KaKIcHhfbAbzqk63TkcIhOiBqhH9qcQC4v0eYzOo5J4L2Z4BctroncyMppDpZVv/72V8GWTJcNTRBIV0acnPt35zujmodTjWLpJ3zzMo6iKfLxYym2/8ObZPZ0mlzFaNHZ6F5mX/RIOu69RgJXCB/KI5Md6txPi5SqCzmTscTp75oorBxY8W3Lu7WzuZGA/SxaVLU26ox3OIHspzAuQvYDz4+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQof8+kiiuoSxeX0Pch3nokwc+E4wbe5JuoXn1xDGYjFxAIHTFyCva+wo9/tjrbXMrJXwc3O//b7yExvkmLLRXreSQGkdXfBgxr73OO4="
-        },
-      
-      
-        {
-          "title":"Mahar",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnyDT+Osu+ED5nGdxVcAY4s7P2oadtWg47VsbhuW1I8LpoIcAsSfUMvoII09sUTvoTY3h7GWKQtP3XGNIrfnOr9gMMVKxhRk2RxT1K8iSbU+fIgPZbcC414rPpIUwxEwBpGY+6kynNpUHhaAiVCOkcicme1kZ3D1XcUEyfYh7Pv8qU587XY/L+9wPwPZ9nO8A1acd1ce7oInGPMboLl8DN7bCoLNYtsZYtwHTdcmhO4fLEitLJpjrBaVt+3CO7WzuZGA/SxaVLU26ox3OIHspzAuQvSCzo+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQof8+ki6/YekdCRAbUrqpVcYpU00caFY+p+txwbDdy1wEJ3AHC+nKPdr9eo+67XM8J2iaxTamtSTd3bD+Q=="
-        },
-      
-      
-        {
-          "title":"MM Movies",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4Zn8JhWbsriEfq37am4sCdomh86VT5Bfx4jE/ZtXUWwfOokwUy81ZGoYg8Q/y/IarqPuwS/TOYIPDVP/c73tl+/zweEfNkFYgQM2RACWoxnw2YcdAZmaapRgn54zVyBA2hVecuCSwwUFUlF8JxU+PwAwb0i/1v38j3EPGGWNs4bC9JE5/ZnY7qiDgecjdt2VzUxZC9B1Uo9igHORMZHk1yJ6TTELMcFMcpNqSggLpiK3crQNlKtNlaVkVdOALu7WzuZGA/SxaVLU26ox3OIHspzAuQvcDj8+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQof8+kiiuoSxeX0Pch3nokwc+E4wbe5JuoXn1xDGYjFsTITRCmGpb7Yo5+cg56fV8J2iaxTamtSTd3bD+Q=="
-        },
-      
-      
-        {
-          "title":"5 Plus",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnzRi77g5HMD7rFQhteLZQksoDAfItUgY3UsLlNYAwwNogKWA08fkp2tbg1k94BjJ3RmwnGcYAjE3jmAoPcuJHBzfkPVwxagExyVRP+qU3SwdttHJj2ZLFDqvZoXCZHgBlnQv7u4m0AQnZXUR5wAwMyS1Cg4KTh1ElJEhztpLbh1pUz1ors06/A+6QOWduVzwp9JNMBd6QqnmDFAuzkjFofUihTDptLPZ9KGDZPiXe/UsMhnPVlgIBVZ961CO7WzuZGA/SxaVLU26ox3OIGupzAsAzZDjg+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQs7p+lb2uIfxLGITK1Ko/RBEsBhtIfEFpYSp3FrLM38pTIDcHSuyKeo04atT"
-        },
-      
-      
-        {
-          "title":"Channel Me",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnyGQ37yLD6Wpn0WBw9Mr0VuNDCCZhS3Yi1sa43QVEFK4oDdTYEO30tmp0M8Ko8tYb1xhX0OIsNZE3oGdvpxu7On+pdOxw2tXhwFA2F9TuR39ZoZY7wX4J0+aR7DDslnytYfvL7sXFnHnJPOhNGIW8YaQGu9bLG/3oKDQTMrcnq0IFq6KDg4aGj9N0EauyP619PK9VQe6B4iEjTYuWc9FQbJx1qCJpAablSNCZE2TCiR/UdiqJvnr4hPtK1GO7WzuZGA/SxaVLU26ox3OIHspzBsA/eDjw+ldg/p3oiL1DiCW8+2gUV",
-     "link":"iWOjQs7p+lb2uIfxLGITK1Ko/RBEsBhtIfEFpYSp3FrLM38qTIDcHSuyKeo04atT"
-        },
-      
-      
-        {
-          "title":"MM Music",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnzUjOoib3wCajVahQdBIQQr/qdV4Nwub+2r4hiQnZlGq4XbzwGTmEhsrgs/+s9srnn7Ti7Z7orJRjFNZPFnYXwidglDjtwoQ1WDiq8n0fV2coUJLyQRrttv7hOdQVEtGNHIY+1ymRHX2RBHSkyQgIOb2qhkbSQymVNagfQmaLOxqgq0o7G/LKP2PEKbczM7QAsLOliUp0OuW/sOqji3QIdaWV3CMxBeqIIETBHrSOWdvYFiqJFsbx6Wem+Pu7WzuZGA/SxaVLU26ox3OIGupzBsQ/aCjk+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQof8+kiiuoSxeX0Pch3nokwc+E4wbe5JuoXn1xDGYjFxDpzBEC3lZO82u+Am8KPZs6/5dwO7/Lj+B1CmwqmNNcGyI1Rma/lpz7f+Mec="
-        },
-      
-      
-        {
-          "title":"Fortune Tv",
-     "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnzTzGtkI/9QqLGSzYiCYBfpdufS6R6oZXQo6tBc2o9M5FqbxlgPVd234UC7L89y6vMyRzOZocvLXvIeZC5g6XoqOYuDhFlnnxtdlmg8ATQwuoOBf7bU5VWkPZoeg44smJJXOmA0GlgQ1V6DDZCDnIXcWeFwZKc6FkwdBLIq57i/NEB6ajg/qSBw9ErMf72qXR0Zddre6QEukzJIKip1xU9KWV3H51VY75wMixRmCbma7YIooBMlYh2ftKqLu7WzuZGA/SxaVLU26ox3OIGupzAsArdDjs+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQs7p+lb2uIfxLGITK1Ko/RBEsBhtIfEFpYSp3FrLM3BsTIDcHSuyKeo04atT"
-        },
-      
-      
-        {
-          "title":"MNTV",
-      "img":"iWOjQof8+kis58aucilTMQPpo0YR71UmfLJJuoa8wBveLSsxDsbbFCnlZahVpqok2PTAst/QSFqK4ZnyJxWEhpHwYrXMbDMnCrUtsfubVahpoZH0l+pVZkwiFpFhGCoSPgINhtsM/bQ8pprpygjzQ9AEBGXKEIrhprCxqrUfGgJwmXFfUjeBggmXyfEcNqbFf6BOo6BnVhYQgTNob/WVym9FeGZSEhZBHgIWLFa70orX6ApMZhnsuoDJwqYn+r3ck4qy5d09cfjbz3xEbqB5faYipxPlMq3miyAIMyZKAI9zVLVbIA9CjDWIdvUwkfZ/qox3dsKzGO7WzuZGA/SxaVLU26ox3OIGupzAsAvcDzk+ldg/p3oiL1DiCW8+2gUV",
-      "link":"iWOjQof8+kiiuoSxeX0Pch3nokwc+E4wbe5JuoXn1xDGYjFxDofGD2Gpb7Yo5+cg56fVgZj4MUW89rnjURP4hOS6NMCzIlVnavhozrb/MOY="
-        }
-    
+      {
+        "title": "Channel 7",
+        "img": "http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg",
+        "link": "http://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+      },
+      {
+        "title": "Maharbawdi",
+        "img": "http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg",
+        "link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+      },
+      {
+        "title": "Channel K",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJog7_EA5NquPs5uzIR7vpz0pO3C8cG7RIEo4XoKBJJk3tcsiJ7HcKTK6wAUebqWhBMYUjUJoRaqx99DZcrN_Yzkyt9Gj_SaICF8Xb5j0EPHKWmnoK9xYJ3Wgnc5yytH-d9_bnk_nmlk9aOQoI2uQc6UTvv6kItDBrDmwIgAOANtCh4PCwAzHFyaeXOg/s320/IMG_20221210_094213.jpg",
+        "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8"
+      },
+      {
+        "title": "Mahar",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirAEC314VzZO4dyK-DXV2NsiRtfniiiNAZPqEwptJkoHBkAVnpGDSMejTjtcPm6yyCyHmQBQtl3uNXuqBzhZu5wOc4VgE27AVvWgKNZczCgYHLwVo_a6XghJn3qfZWhvBgBMqWXDunmasvm5F-LnMxGPHk8_4L_6rx0priuaNbWzqWjb5FRvIjyJPBOA/s320/IMG_20221210_094857.jpg",
+        "link": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+      },
+      {
+        "title": "MM Movies",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPCd1EbGG4Dl-AFwepyG7oC8EWcWJZRbsUbnYCi-duubQqXovQ2kGXrS3Tbf3w8asU4XP63ga_dgQQ7GTU3TnWPP-ci6-NNgYQB86aSeBi4I0Drpkq8X2Lu833nbEpvgLaqEOz4uApw-PtEWAGdM-LX6gL5kN7Sc0t8IbyT5h-Mfel0iromqltSNxg/s320/IMG_20221210_094602.jpg",
+        "link": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8"
+      },
+      {
+        "title": "5 Plus",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9P0rMy4uyoA6HcCs90CbLqjSugMR7eVSXxwkty-_Qn-YysOg5PDzikFYJBjSIME4yc4yZQywvr7n3sIk7IT_ZKte8vho1wBwWG-cP3qtN4bzu3FVhtGaEit32JSyRfRrmgrExH9N6l_q-R2axB3AfeRKbT1506RLzhKbN-utgVib3mLGEz1EdIEaCMA/s320/IMG_20221208_003305.jpg",
+        "link": "http://183.89.246.119:8881/play/a07w/index.m3u8"
+      },
+      {
+        "title": "Channel Me",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifs09lOaVHuFUWJryi26qJ-o2tp7sjPKQQULS1NvptWN-DJTChLv3bE1lDY2f72Jfj1Xi6dMu7lL2E0Wf20BYaxC6je8rShpHkK80LT-pV_oLW_lt9zRwbBGp-Rrp-mTf4YXIJFZAOflF7vgSwDbMb7Dct48MH8V9OQMcEySlKFb2tpYqylfOzw18OMQ/s320/IMG_20221210_100401.jpg",
+        "link": "http://183.89.246.119:8881/play/a07t/index.m3u8"
+      },
+      {
+        "title": "MM Music",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-McxaE2giGNuaswnCmhjhIX1jVbpM0zuEOFQDRzXQwAlEMkQCa9lScp9iuzJlYtpXImNpp8S-KuX9tQzNqp9xAZpvPAL2C8W46vKYtlfXxU842zrRu6q4wX7JQnDFIBOtcvoWUvmchkftp80pxPd_AuDKlu3anPw7LM5DjH6nPaFgDhralfeUuj_tFw/s320/IMG_20221208_110044.jpg",
+        "link": "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
+      },
+      {
+        "title": "Fortune Tv",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0OfaSHymzflJlw8dbotMbQrWfuAAQhSJ8Oc77d-5lYR8E4yzgELmngxZd9y6rylQfBmdeOIhU8i7zqJZTP2rmoa_8vNGNE9YIPCQTSpWciJHxBcl_QfW8UdJTDvvzex6_XPIUCxvCI7TN4Lh9FYMfKvgnvuxkyp77LZdPsTNMLwsb4u2lDDlqAfxORg/s320/IMG_20221208_005706.jpg",
+        "link": "http://183.89.246.119:8881/play/a082/index.m3u8"
+      },
+      {
+        "title": "MNTV",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkOwMEYzpAiOoBJpBkjAqQvsR4UTwwvJ38PE41Vl2WC3DYH_dQqH9LQDfPcnWl5S5sywpHDZqVHEw6AAFcjlAZylnyb_fvhxzLVKRvKdKwjKh2b1nouOsU76FORgdNFAyKEu8mKPO_wRcRDX21KKdmk8Bdp77LE-tqEvvD_e_odgqZhqTw2_NEgp_KQ/s320/IMG_20221208_004614.jpg",
+        "link": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+      }
     ]
-  }
-  ]
-  }
+  },
+  
+]
