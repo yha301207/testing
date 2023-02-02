@@ -37,84 +37,49 @@
             ]
 },
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 21",
-            "time": "7:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Liverpool Vs Chelsea",
-            "hteam" : "Liverpool",
-            "ateam" : "Chelsea",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
            "league": "🏆 Laliga",
-            "date": "Jan 21",
-            "time": "7:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "Rayo Vallecano Vs Real Sociedad",
-            "hteam" : "Rayo Vallecano",
-            "ateam" : "Real Sociedad",
-            "hotmat":"no",
+            "date": "Feb 3",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "teams" : "Real Madrid Vs Valencia",
+            "hteam" : "Real Madrid",
+            "ateam" : "Valencia",
+            "hotmat":"yes",
             "link":[
                 
 {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Bein SD",
+                "livelink":"http://167.172.17.19:80/BeinSports1SD/tracks-v1a1/mono.m3u8"
          
                 },
                 
 {
-                    "type": "HD",
+                    "type": "China SD",
                 "livelink":""
          
                 },
 {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein HD",
+                "livelink":"http://167.172.17.19:80/BeinSports1HD/tracks-v1a1/mono.m3u8"
          
                 },
 {
-                    "type": "Bein",
-                "livelink":""
+                    "type": "Soco FHD",
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=977a3780dab0fa676cb63dbb3d300223&txTime=63dc40f2"
                 }
                 
             ]
 },
 {
-           "league": "🏆 Serie A",
-            "date": "Jan 21",
-            "time": "8:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "teams" : "Hellas Verona Vs Lecce",
-            "hteam" : "Hellas Verona",
-            "ateam" : "Lecce",
+           "league": "🏆 Coppa Italia",
+            "date": "Feb 3",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "teams" : "Juventus Vs Lazio",
+            "hteam" : "Juventus",
+            "ateam" : "Lazio",
             "hotmat":"yes",
             "link":[
                 
@@ -125,276 +90,31 @@
                 },
                 
 {
-                    "type": "HD",
+                    "type": "China SD",
                 "livelink":""
          
                 },
 {
-                    "type": "FHD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "Bein",
+                    "type": "Soco FHD",
                 "livelink":""
                 }
                 
             ]
 },
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 21",
+           "league": "🇸🇦 Saudi Premier League",
+            "date": "Feb 3",
             "time": "9:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "teams" : "Bournemouth Vs Nottingham",
-            "hteam" : "Bournemouth",
-            "ateam" : "Nottingham",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 21",
-            "time": "9:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "teams" : "Leicester Vs Brighton",
-            "hteam" : "Leicester",
-            "ateam" : "Brighton",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 21",
-            "time": "9:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "teams" : "Southampton Vs Aston Villa",
-            "hteam" : "Southampton",
-            "ateam" : "Aston Villa",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 21",
-            "time": "9:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "West Ham Vs Everton",
-            "hteam" : "West Ham",
-            "ateam" : "Everton",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 21",
-            "time": "9:45 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "teams" : "Espanyol Vs Real Betis",
-            "hteam" : "Espanyol",
-            "ateam" : "Real Betis",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 21",
-            "time": "11:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Salernitana Vs Napoli",
-            "hteam" : "Salernitana",
-            "ateam" : "Napoli",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 22",
-            "time": "12:00 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Crystal Palace Vs Newcastle",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Newcastle",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 22",
-            "time": "12:00 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "teams" : "Atletico Madrid Vs Real Valladolid",
-            "hteam" : "Atletico Madrid",
-            "ateam" : "Real Valladolid",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+            "teams" : "Al Fateh FC Vs Al Nassr FC",
+            "hteam" : "Al Fateh FC",
+            "ateam" : "Al Nassr FC",
             "hotmat":"yes",
             "link":[
                 
@@ -405,87 +125,17 @@
                 },
                 
 {
-                    "type": "HD",
+                    "type": "China SD",
                 "livelink":""
          
                 },
 {
-                    "type": "FHD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 22",
-            "time": "2:15 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-            "teams" : "Fiorentina Vs Torino",
-            "hteam" : "Fiorentina",
-            "ateam" : "Torino",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 22",
-            "time": "6:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "teams" : "Sampdoria Vs Udinese",
-            "hteam" : "Sampdoria",
-            "ateam" : "Udinese",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Bein",
+                    "type": "Soco FHD",
                 "livelink":""
                 }
                 
