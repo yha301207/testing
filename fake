@@ -37,49 +37,352 @@
             ]
 },
 {
-           "league": "🏆 Laliga",
-            "date": "Feb 3",
-            "time": "2:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "teams" : "Real Madrid Vs Valencia",
-            "hteam" : "Real Madrid",
-            "ateam" : "Valencia",
+           "league": "🏆 Bundesliga",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "teams" : "Dortmund Vs Freiburg",
+            "hteam" : "Dortmund",
+            "ateam" : "Freiburg",
             "hotmat":"yes",
             "link":[
                 
 {
-                    "type": "Bein SD",
-                "livelink":"http://167.172.17.19:80/BeinSports1SD/tracks-v1a1/mono.m3u8"
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675540091-0-0-69b4fa06eb5d73ff293ad89cefb72c16&user_session_id=1964626e5c32cd610b9fb4141d5ee61f"
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
          
                 },
 {
-                    "type": "Bein HD",
-                "livelink":"http://167.172.17.19:80/BeinSports1HD/tracks-v1a1/mono.m3u8"
+                    "type": "China HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=977a3780dab0fa676cb63dbb3d300223&txTime=63dc40f2"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&user_session_id=2b3af9ebc1275573bfef98419135bc13&edge_slice=true&auth_key=1675540091-0-0-0ab1f58d940e0bc6962562ea11521827"
                 }
                 
             ]
 },
 {
-           "league": "🏆 Coppa Italia",
-            "date": "Feb 3",
-            "time": "2:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "teams" : "Juventus Vs Lazio",
-            "hteam" : "Juventus",
-            "ateam" : "Lazio",
+           "league": "🏆 Bundesliga",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "teams" : "1. FC Köln Vs RB Leipzig",
+            "hteam" : "1. FC Köln",
+            "ateam" : "RB Leipzig",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?auth_key=1675540151-0-0-f92ea3d71bf8f89d5a05458a5f6406e8&edge_slice=true&user_session_id=25756f66d8edfe6f6379dbfe42c6ddfd&sub_m3u8=true"
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?user_session_id=c10d38e325cfe061edf9d3f6de90733c&auth_key=1675540717-0-0-44d534e483fb3405690b7621173744ba&sub_m3u8=true&edge_slice=true"
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?user_session_id=d20076ab7d87ac5619d7bbc5a42c396a&sub_m3u8=true&edge_slice=true&auth_key=1675540717-0-0-cef954d4b5727c90be6777d36d51633a"
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?edge_slice=true&user_session_id=eaf9aaee307e1439517f7d6ab7f6123d&auth_key=1675540151-0-0-ce6b921b62548fd9cb6a1594d4279252&sub_m3u8=true"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "teams" : "Man United Vs Crystal Palace",
+            "hteam" : "Man United",
+            "ateam" : "Crystal Palace",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1675540837-0-0-a73ea17bea7cf3cc3733cfe779d02543&user_session_id=921d2d1d32c83a6d13963eb1bbf78b29&edge_slice=true"
+         
+                },
+{
+                    "type": "SD 2",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1675540837-0-0-01b024867a516ef0a89884fb598cfe94&user_session_id=b1a2c53ddef5eab7739b850c21fc9cc2&edge_slice=true"
+         
+                },
+{
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=9ff971a1537fae4c760dd748dbed34f0&txTime=63deb72f"
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=c29e557aca221a308dc585b5cbb5d6b8&txTime=63deb72f"
+                }
+
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Wolves Vs Liverpool",
+            "hteam" : "Wolves",
+            "ateam" : "Liverpool",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?auth_key=1675545731-0-0-6f5d684fc1fcecc061d550b239e8755e&edge_slice=true&user_session_id=b17e48d7659562771418525f2ff56c2b&sub_m3u8=true"
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-259579.m3u8?auth_key=1675540837-0-0-64717d55a72f9b012e14d1b105980a03"
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?user_session_id=32a7ef1dc78774ba7784e8c534228021&edge_slice=true&auth_key=1675545731-0-0-0e636d1f75387ceb174d21cc937353d8&sub_m3u8=true"
+                }
+
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "teams" : "Aston Villa Vs Leicester City",
+            "hteam" : "Aston Villa",
+            "ateam" : "Leicester City",
+            "hotmat":"no",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-192778_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675540331-0-0-00154d839c5922237504139b5673cb4d&user_session_id=f3a718c2c04e9f5d30b75ca8dc9ebe78"
+         
+                },
+{
+                    "type": "SD 2",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lsd.m3u8?auth_key=1675540897-0-0-247c03974504892f0fe54dc9be6aa5e5&edge_slice=true&user_session_id=c1625c87c5ee0054a2b6d2b24aa9362d&sub_m3u8=true"
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?auth_key=1675540897-0-0-888ef17850774194919be58357cb3fdb&user_session_id=f588dc34432034732ffaf15c29583362&edge_slice=true&sub_m3u8=true"
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-192778_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675540331-0-0-7c3f68e78e186f36ff6d334207d2b007&user_session_id=6980a369d4bf61505a3796d5f5f17087"
+                },              
+{
+"type": "Bein HD",
+"livelink": "http://167.172.17.19:80/BeinPremuim3HD/tracks-v1a1/mono.m3u8"
+},
+{
+"type": "Bein SD",
+"livelink": "http://167.172.17.19:80/BeinSportsPremuim3SD/tracks-v1a1/mono.m3u8"
+}
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "Brentford Vs Southampton",
+            "hteam" : "Brentford",
+            "ateam" : "Southampton",
+            "hotmat":"no",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?auth_key=1675540391-0-0-cfee92f3abccbaa2ca5ad635f0a9bc5a&user_session_id=7f838e3cfff3dcc93fcf8c238d3fc2cf&sub_m3u8=true&edge_slice=true"
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?user_session_id=13eaf550c1eac4499a417a4138bbb93e&auth_key=1675541017-0-0-675fc0a61f9521bff534ecc96de9626c&sub_m3u8=true&edge_slice=true"
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?edge_slice=true&user_session_id=f54fd7d80eeccadc9ae444ca54e140ce&auth_key=1675541017-0-0-49f7f78119315799760217b68ce072a2&sub_m3u8=true"
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?auth_key=1675540391-0-0-ea6f5c937f9f02da0ed22d6112377a48&user_session_id=c2110915f58b4eb93f0340480daac8a8&sub_m3u8=true&edge_slice=true"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "teams" : "Brighton Vs Bournemouth",
+            "hteam" : "Brighton",
+            "ateam" : "Bournemouth",
+            "hotmat":"no",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675541017-0-0-9f3e7b02d93280f05e88e7ba4b7bb506&user_session_id=da7ee5d40c9e259b3ab51d9059c277fe"
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?edge_slice=true&auth_key=1675541017-0-0-84a208623a49448dfb3ac735cc9e61d1&sub_m3u8=true&user_session_id=0d8d2a42a0bc36e933aee9a22f40c40d"
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-195586_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=aac65bc889920b9d95682696717d05e7&auth_key=1675540391-0-0-da139aad99eddf02b31e2fbaa17b2aeb"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+            "teams" : "Elche Vs Villarreal",
+            "hteam" : "Elche",
+            "ateam" : "Villarreal",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?edge_slice=true&user_session_id=da00c07d072b665c5e5614d76a82abff&sub_m3u8=true&auth_key=1675544771-0-0-2392446a045987f4784797a08e8b8ff0"
+         
+                },
+                
+
+                    
+{
+                    "type": "Soco FHD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=7453c58a899b1ad846b014cde2064583&auth_key=1675544771-0-0-9cc4441a62258cad568b2238efc73121"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 4",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
+            "teams" : "PSG Vs Toulouse",
+            "hteam" : "PSG",
+            "ateam" : "Toulouse",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1675547111-0-0-a4473981c7fcd729b1a85445e81d074a&edge_slice=true&sub_m3u8=true&user_session_id=ac01811e2fe402b529678fe1f09268b0"
+         
+                },
+{
+                    "type": "HD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-284564_lsd.m3u8?auth_key=1675547917-0-0-22fbe2ef4b32b75734b1922055e56a73&sub_m3u8=true&user_session_id=b7384b68374f97d5acd0aa21394893aa&edge_slice=true"
+         
+                },
+{
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1675547111-0-0-a4473981c7fcd729b1a85445e81d074a&edge_slice=true&sub_m3u8=true&user_session_id=ac01811e2fe402b529678fe1f09268b0"
+         
+                },
+
+{
+                    "type": "Soco FHD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?user_session_id=7909e410ecd614cad4605fab7c8e0008&edge_slice=true&sub_m3u8=true&auth_key=1675547111-0-0-cf681e7d0e681e48cfdee4abcbd42ce1"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 4",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "teams" : "Roma Vs Empoli",
+            "hteam" : "Roma",
+            "ateam" : "Empoli",
             "hotmat":"yes",
             "link":[
                 
@@ -107,15 +410,155 @@
             ]
 },
 {
-           "league": "🇸🇦 Saudi Premier League",
-            "date": "Feb 3",
-            "time": "9:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "teams" : "Al Fateh FC Vs Al Nassr FC",
-            "hteam" : "Al Fateh FC",
-            "ateam" : "Al Nassr FC",
+           "league": "🏆 Premier League",
+            "date": "Feb 5",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Newcastle Vs West Ham",
+            "hteam" : "Newcastle",
+            "ateam" : "West Ham",
             "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 5",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+            "teams" : "Atletico Vs Getafe",
+            "hteam" : "Atletico",
+            "ateam" : "Getafe",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Bundesliga",
+            "date": "Feb 5",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+            "teams" : "Borussia Vs Schalke 04",
+            "hteam" : "Borussia",
+            "ateam" : "Schalke 04",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 5",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Troyes Vs Lyon",
+            "hteam" : "Troyes",
+            "ateam" : "Lyon",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 5",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "teams" : "Sassuolo Vs Atalanta",
+            "hteam" : "Sassuolo",
+            "ateam" : "Atalanta",
+            "hotmat":"no",
             "link":[
                 
 {
