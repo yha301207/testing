@@ -46,7 +46,14 @@
             "teams": "Real Madrid TV”,
             "hteam": "Real Madrid",
             "ateam": “TV”,
-            "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
+            "link": [
+            {
+                    "type": "MUTV 360 SD",
+                "livelink":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
+
+                }
+                ]
+            
         }
  
 ]                   
