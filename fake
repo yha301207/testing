@@ -48,7 +48,7 @@
             "ateam": “TV”,
             "link": [
             {
-                    "type": "MUTV 360 SD",
+                    "type": "Auto",
                 "livelink":"https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
 
                 }
