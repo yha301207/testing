@@ -2,98 +2,12 @@
   "status": true,
   "mdata":
 [
-     
+
+                    
                        
-                       {
 
-           "league": "🏆 Sea Games",
 
-            "date": "May 15",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-
-            "teams" : "Vietnam Women Vs Myanmar Women",
-
-            "hteam" : "Vietnam Women",
-
-            "ateam" : "Myanmar Women",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=2a2f92c74db565f35d7e91bea420a59f&txTime=646286b8"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=2a2f92c74db565f35d7e91bea420a59f&txTime=646286b8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://pull06.scstream.net/live/stream-991108_lhd.m3u8?auth_key=1684178316-0-0-efcfc58dab9e31ff16f8c5dc76856252"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://pull06.scstream.net/live/stream-250874_lhd.m3u8?auth_key=1684178676-0-0-aba14d0f89f750ce92befa27138a4617"
-
-                },
-
-              {
-
-                    "type": "Vebo SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=49c205023798cabf16b1ba59db0617bd&txTime=64628730"
-
-         
-
-                },
-
-{
-
-                    "type": "Vebo HD",
-
-                "livelink":"https://pull06.scstream.net/live/stream-991106_lhd.m3u8?auth_key=1684178736-0-0-95d7b973356fb5bc30a756a18c2540dc"
-
-         
-
-               
-
-                },
-
-{
-
-                    "type": "Vebo FHD",
-
-                "livelink":"https://pull06.scstream.net/live/stream-991115_lhd.m3u8?auth_key=1684178736-0-0-edfc79e4c8ec2721f1dc991d52a307fa"
-           }
-                       ]
-                                  },
+                    
            {
 
            "league": "🏆 Serie A",
@@ -292,7 +206,6 @@
 
 }
            ]
-           
                                                   
  }        
             
