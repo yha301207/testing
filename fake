@@ -91,23 +91,157 @@
         }
       ]
     },
+          
            {
 
-           "league": "🏆 Champions League Semi Final",
+           "league": "🏆 Premier League",
 
-            "date": "May 18",
+            "date": "May 19",
+
+            "time": "1:00 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+
+            "teams" : "Newcastle Vs Brighton",
+
+            "hteam" : "Newcastle",
+
+            "ateam" : "Brighton",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Europa League Semi Final",
+
+            "date": "May 19",
 
             "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 
-            "teams" : "Man City Vs Real Madrid",
+            "teams" : "Leverkusen Vs Roma",
 
-            "hteam" : "Man City",
+            "hteam" : "Leverkusen",
 
-            "ateam" : "Real Madrid",
+            "ateam" : "Roma",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},  
+ 
+
+           {
+
+           "league": "🏆 Europa League Semi Final",
+
+            "date": "May 19",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+
+            "teams" : "Sevilla Vs Juventus",
+
+            "hteam" : "Sevilla",
+
+            "ateam" : "Juventus",
 
             "hotmat":"yes",
 
@@ -159,21 +293,21 @@
 
            {
 
-           "league": "🏆 Championship Semi Final",
+           "league": "🏆 Conference League Semi Final",
 
-            "date": "May 18",
+            "date": "May 17",
 
             "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 
-            "teams" : "Middlesbrough Vs Coventry City",
+            "teams" : "AZ Alkmaar Vs West Ham United",
 
-            "hteam" : "Middlesbrough",
+            "hteam" : "AZ Alkmaar",
 
-            "ateam" : "Coventry City",
+            "ateam" : "West Ham United",
 
             "hotmat":"no",
 
@@ -221,21 +355,23 @@
 
             ]
 
-}     
-]
-                    
-                       
+}              
+           
+]           
+
+           
+
+           
+
 
 
                     
            
+                
+                
+         
 
-                    
-                                 
-
-
-              
-
+                
 
 
                 
@@ -243,6 +379,8 @@
             
 
 
+           
+           
            
                                                         
  }        
