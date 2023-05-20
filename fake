@@ -186,7 +186,7 @@
     {
       "league": "🏆 Serie A",
       "date": "May 21",
-      "time": "1:15 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
       "teams": "AC Milan Vs Sampdoria",
@@ -196,26 +196,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?edge_slice=true&user_session_id=9272ef5472f750c7c009a2520a940e17&sub_m3u8=true&auth_key=1684628060-0-0-f45579bbcb6f2b2860c933635258c0df"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?auth_key=1684627837-0-0-53592a17f767f71b1059bd29d6d2e946&user_session_id=58826da626599883e7b5120cd94ec4c8&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?user_session_id=561c6f1bbc8a403bbd3306aa0aa8c5a3&sub_m3u8=true&edge_slice=true&auth_key=1684627837-0-0-9fdf4ec02647fc0511cf65508c81ec84"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?auth_key=1684628060-0-0-1af99e52d95b4be06245dfc949a2e24a&edge_slice=true&sub_m3u8=true&user_session_id=5c2f30af3e597994a4829e59ec364ce2"
         }
       ]
     },
     {
       "league": "🏆 Laliga",
       "date": "May 21",
-      "time": "1:30 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
       "teams": "Barcelona Vs Real Sociedad",
@@ -225,26 +225,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?edge_slice=true&auth_key=1684628180-0-0-926545aaf236243e494245a8ed12424a&sub_m3u8=true&user_session_id=ac3e2fe29bdd6054c0025d36fdd315bb"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991103_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f2a8cb6b706a055f298a3f50efea5de0&auth_key=1684627957-0-0-88ea55205c5b186fc1d0f63073e69f78"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991103_lhd.m3u8?sub_m3u8=true&auth_key=1684627957-0-0-c9b9c373ea9f992973d5d741db9d3552&edge_slice=true&user_session_id=1d80e1f16993ca7697a97e756614b9e4"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?edge_slice=true&auth_key=1684628180-0-0-bca205d32de098325ffaab397b7319ee&user_session_id=fe698b39a66b8d89e874453f322e82b2&sub_m3u8=true"
         }
       ]
     },
     {
       "league": "🏆 Ligue 1",
       "date": "May 21",
-      "time": "1;30 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
       "teams": "Lille Vs Marseille",
@@ -254,19 +254,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684628120-0-0-4f45ebaf2f132464de3e78390f8b55f2&user_session_id=9f98ed8d048e6906a5f8f74804a9bec8"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=3e979e248c7bce2f6be962bfa100a309&txTime=646961f5"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cdf6dcbde26b371bdfd169b09f020aed&auth_key=1684628120-0-0-ccb2866a5fce55ec45f828633bd11db1"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=3e979e248c7bce2f6be962bfa100a309&txTime=646961f5"
         }
       ]
     }
