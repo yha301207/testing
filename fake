@@ -2,179 +2,6 @@
   "status": true,
   "mdata": [
     {
-      "league": "🏆 Premier League",
-      "date": "May 20",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "teams": "Bournemouth Vs Man United",
-      "hteam": "Bournemouth",
-      "ateam": "Man United",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991113_lsd.m3u8?auth_key=1684611097-0-0-3c1d1638c50a191d7ca191df3be8d70b&edge_slice=true&sub_m3u8=true&user_session_id=345147b865895ec6ee2e4061dbb362d1"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?user_session_id=eda84c616866f32886510ec5c5706e7b&edge_slice=true&auth_key=1684611321-0-0-2057c74c1c5de2f939261e2cabe27ba9&sub_m3u8=true"
-        },
-        {
-          "type": "Vebo SD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-        },
-        {
-          "type": "Vebo HD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?auth_key=1684611097-0-0-c6236903ce9a164108b6f988f1239bc3&sub_m3u8=true&edge_slice=true&user_session_id=79cc1482f6dbae6351bbdfaa7b4f9bdd"
-        },
-        {
-          "type": "Eng SD",
-          "livelink": "https://catchy.livenflstream.xyz/playlist/stream_1.m3u8"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?user_session_id=9685a7cf86a5dea632831a4b19bcf636&edge_slice=true&auth_key=1684611321-0-0-3e3c15cdef4a413f8730ae96d51495df&sub_m3u8=true"
-        }
-      ]
-    },
-    {
-      "league": "🏆 PREMIER",
-      "date": "May 20",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "teams": "Liverpool Vs Aston Villa",
-      "hteam": "Liverpool",
-      "ateam": "Aston Villa",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=b9dfc70d0d85b4cc897e0496e025fa4c&txTime=64691fa1"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lhd.m3u8?auth_key=1684611621-0-0-5d8a59e7575c28f0999644d668ac14b3&sub_m3u8=true&user_session_id=0bd65af864972b91aa007b75b4c2de64&edge_slice=true"
-        },
-        {
-          "type": "Vebo SD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-        },
-        {
-          "type": "Vebo HD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=b9dfc70d0d85b4cc897e0496e025fa4c&txTime=64691fa1"
-        },
-        {
-          "type": "test SD",
-          "livelink": "https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_1.m3u8"
-        },
-        {
-          "type": "Eng SD",
-          "livelink": "https://storage.googleapis.com/untering2/mux_video_ts1/index-1.m3u8"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ds1.enjoyhd.club/stream/ch89/tracks-v1/index.fmp4.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "🏆 PREMIER",
-      "date": "May 20",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "teams": "Fulham Vs Crystal Palace",
-      "hteam": "Fulham",
-      "ateam": "Crystal Palace",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=a72134047b427fc2bf3e8016bc721a29&txTime=64692019"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?auth_key=1684611861-0-0-4abc4769a0f90fa229b22adef3d2330d&user_session_id=41ada02cb756522d0e49162397ecf76b&edge_slice=true&sub_m3u8=true"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=a72134047b427fc2bf3e8016bc721a29&txTime=64692019"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lhd.m3u8?auth_key=1684611861-0-0-6479aeeac41dd3872e5674cca5f99606&user_session_id=62b32eebe4f3466c6d1d5fb8f1ab7b14&edge_slice=true&sub_m3u8=true"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Premier League",
-      "date": "May 20",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-      "teams": "Wolves Vs Everton",
-      "hteam": "Wolves",
-      "ateam": "Everton",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=3dc3ee583ac241f481a6ce7c03d49895&txTime=64692055"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=f03eba39c406529f864db5dc2e65c357&sub_m3u8=true&auth_key=1684611920-0-0-49a3bf67aa29d4e04c9fb4aedbd1b1c2&edge_slice=true"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=3dc3ee583ac241f481a6ce7c03d49895&txTime=64692055"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684611920-0-0-f93e633fca5a0a1b2251a6e4ee53a58a&user_session_id=f9e154900a58d1993a2eafc2c2ea5daa"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Laliga",
-      "date": "May 20",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-      "teams": "Athletic Club Vs Celta Vigo",
-      "hteam": "Athletic Club",
-      "ateam": "Celta Vigo",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&auth_key=1684611217-0-0-6a4a50ef43f294922f8b87a8082afc06&edge_slice=true&user_session_id=741f1cc27f2e8c91990351e06e1607a3"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lsd.m3u8?user_session_id=00c4c3b3cdeb5691e6c10deb2cfbbeec&auth_key=1684611921-0-0-2f529d7e9a76eaa3a327bc5f63bcb683&sub_m3u8=true&edge_slice=true"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&auth_key=1684611217-0-0-62f8dba5c14ce3778853c9d74441b342&edge_slice=true&user_session_id=fc76a5277e9f1fbbbf1d903ccd0ff39c"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lhd.m3u8?auth_key=1684611921-0-0-b017642bacff25234f7b8ba42f591c38&user_session_id=17b73aa05a75b90289dc47174e26b2c6&sub_m3u8=true&edge_slice=true"
-        }
-      ]
-    },
-    {
       "league": "🏆 Ligue 1",
       "date": "May 20",
       "time": "live",
@@ -235,7 +62,7 @@
     {
       "league": "🏆 Premier League",
       "date": "May 20",
-      "time": "11:00 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
       "teams": "Nottingham Forest Vs Arsenal",
@@ -245,26 +72,38 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&user_session_id=f89b62a11309fb9d13a66ded00f70d8a&auth_key=1684620660-0-0-87ed264c2703682fa64a78c046029347&sub_m3u8=true"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?user_session_id=7659cefefc451df2836de810e4efb625&sub_m3u8=true&edge_slice=true&auth_key=1684621220-0-0-2e3cb1286bab273b1792a407a76eda19"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?edge_slice=true&auth_key=1684620660-0-0-d35cf1b33420570dc7402091321df314&sub_m3u8=true&user_session_id=1de9ed1dcb0d6b44c3ffd73099352ff8"
+        },
+        {
+          "type": "beIN SD",
+          "livelink": "https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_3.m3u8"
+        },
+        {
+          "type": "beIN HD",
+          "livelink": "https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_2.m3u8"
+        },
+        {
+          "type": "beIN FHD",
+          "livelink": "https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_1.m3u8"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?auth_key=1684621220-0-0-951f67083e8bb7208ecca46b883cf3c8&sub_m3u8=true&user_session_id=ac01df2d8bfe837bdeab36ea7e7b8e78&edge_slice=true"
         }
       ]
     },
     {
       "league": "🏆 Bundesliga",
       "date": "May 20",
-      "time": "11:00 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
       "teams": "Bayern München Vs RB Leipzig",
@@ -274,26 +113,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991126_lsd.m3u8?sub_m3u8=true&auth_key=1684620697-0-0-8fe1dbf103bd73f5c63cab1b0c8a9ab2&edge_slice=true&user_session_id=43380ccc597450d4b53f26b33823899c"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lsd.m3u8?edge_slice=true&user_session_id=d2bacc44da7d18264c31c5cf53f24f43&auth_key=1684621281-0-0-469f2ef53afb6e307335f83b9ce3fd62&sub_m3u8=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991126_lhd.m3u8?edge_slice=true&user_session_id=71400306535a4f7f047b9370b6a27a4e&sub_m3u8=true&auth_key=1684620697-0-0-f97100d6c39bef815dc54db6c3bd623a"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lhd.m3u8?sub_m3u8=true&user_session_id=1d51bc7872eade9ba59ff9784a1f9bb2&auth_key=1684621281-0-0-053c2c1d48d5372139973da49a1bb318&edge_slice=true"
         }
       ]
     },
     {
       "league": "🏆 Laliga",
       "date": "May 20",
-      "time": "11:00 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
       "teams": "Getafe Vs Elche",
@@ -302,27 +141,23 @@
       "hotmat": "no",
       "link": [
         {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?auth_key=1684621401-0-0-a1ff0bd98a484338281ab8931f729bf2&user_session_id=40ee932471ed5227664232ab50cb9591&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&auth_key=1684620757-0-0-a09d646a9e570088c5f349a652b587f8&user_session_id=70a1245e20e2e4b9e2d5cebf879e03ef&edge_slice=true"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684621401-0-0-c3ed93f349bc5992af0ab5f5e7dce7f5&user_session_id=5e015b7d7a6575cac867e2642410fb5f"
         }
       ]
     },
     {
       "league": "🏆 Laliga",
       "date": "May 20",
-      "time": "11:00 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
       "teams": "Almeria Vs Mallorca",
@@ -332,19 +167,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=04e3a272b20105d15bc4da6f7883735b&txTime=64694611"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1684621340-0-0-69d1c990a11b233631930a8e6bb71e32&user_session_id=750f8d4151a03caef4cb8f70eb9d9c67&edge_slice=true&sub_m3u8=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=04e3a272b20105d15bc4da6f7883735b&txTime=64694611"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-507317_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=453cfc6bd8e82d133a23aa050569c6a5&auth_key=1684621340-0-0-d29ed61a3784be0239a8fe86c4f8fe4e"
         }
       ]
     },
