@@ -88,7 +88,7 @@
         },
         {
           "type": "Other SD",
-          "livelink": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Xm-hvTSbjx_59GPv00oSkYuVAh9pHM3kVjfJxWEqfu9kZgpVff5pHsjuwkKT2aJnsgYNKwYH4vA4BgCiZFUlVA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+          "livelink": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Xm-hvTSbjx_59GPv00oSkYuVAh9pHM3kVjfJxWEqfu9kZgpVff5pHsjuwkKT2aJnsgYNKwYH4vA4BgCiZFUl"
         },
         {
           "type": "HD 2",
@@ -157,7 +157,7 @@
     {
       "league": "🏆 Serie A",
       "date": "May 21",
-      "time": "10:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
       "teams": "Napoli Vs Inter",
@@ -167,19 +167,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?sub_m3u8=true&auth_key=1684706017-0-0-66f2d4bd187a0666cb355b9648727bc1&edge_slice=true&user_session_id=450e9cfcc94add5918b6b16df6feb9e4"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&auth_key=1684705957-0-0-ca692236def83121446e86c7b7d85870&edge_slice=true&user_session_id=34c7540ede039b365b7116764009496e"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684706017-0-0-e3ff0541ce399e977dba8f0b7a874208&user_session_id=84a09b5c3a580124b8b445bfd3483b7e"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1684705897-0-0-af295350dde3b4456850575f55856afd&user_session_id=e9aaecaf8243fdc799cbbdcf6a14554d&edge_slice=true"
         }
       ]
     },
