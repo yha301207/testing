@@ -2,112 +2,9 @@
   "status": true,
   "mdata": [
     {
-      "league": "MAN U",
-      "date": "TV Channel",
-      "time": "live",
-      "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-      "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-      "teams": "Man United TV",
-      "hteam": "MAN U",
-      "ateam": "TV",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-        },
-        {
-          "type": "SD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        },
-        {
-          "type": "FHD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "Real Madrid",
-      "date": "TV Channel",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "teams": "Real Madrid TV",
-      "hteam": "RealMadrid",
-      "ateam": "TV",
-      "link": [
-        {
-          "type": "Auto",
-          "livelink": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Serie A",
-      "date": "May 21",
-      "time": "5:00 PM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-      "teams": "Lecce Vs Spezia",
-      "hteam": "Lecce",
-      "ateam": "Spezia",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    },
-    {
-      "league": "🏆 Ligue 1",
-      "date": "May 21",
-      "time": "5:30 PM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-      "teams": "AC Ajaccio Vs Rennes",
-      "hteam": "AC Ajaccio",
-      "ateam": "Rennes",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    },
-    {
       "league": "🏆 Laliga",
       "date": "May 21",
-      "time": "6:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
       "teams": "Rayo Vallecano Vs Espanyol",
@@ -117,26 +14,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991113_lsd.m3u8?edge_slice=true&user_session_id=3589b1ceb66ac7d9f21ae660a4100fc7&auth_key=1684691677-0-0-f76163f184dfc3bf59dca2467dc2eb73&sub_m3u8=true"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?user_session_id=e131cccf5e1ca66818c6a771da9443b5&auth_key=1684691481-0-0-5e2623bb162750b7b5ec940881b72a89&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?auth_key=1684691677-0-0-2517474f24e654afef314131c3f8aeea&edge_slice=true&user_session_id=ec7073b103c8c2c59ea32634f5117470&sub_m3u8=true"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6608bc42c280c18e145311132bb792ce&auth_key=1684691481-0-0-5e2623bb162750b7b5ec940881b72a89"
         }
       ]
     },
     {
       "league": "🏆 Premier League",
       "date": "May 21",
-      "time": "7:00 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
       "teams": "West Ham Vs Leeds",
@@ -146,26 +43,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?edge_slice=true&auth_key=1684691601-0-0-2a69c83582c2f9caa3b5658a6f90560d&sub_m3u8=true&user_session_id=44b06491d23d49605a0788999ae5f3bb"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?auth_key=1684691737-0-0-40b1b67dbaaa1452c6380c2a95d55566&user_session_id=5352e1b6edc561918ec0895a39e8c5c3&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lhd.m3u8?sub_m3u8=true&auth_key=1684691601-0-0-2fbc5cbe823b1f0daefe553f2271b9f0&edge_slice=true&user_session_id=506ec951a6225b8a1ba87182c1a61d29"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684691737-0-0-2b459f7930db47ef5f2d5a1c390673e9&sub_m3u8=true&user_session_id=e3b6714d9e3002b8bf9118d7e7eb366c&edge_slice=true"
         }
       ]
     },
     {
       "league": "🏆 Premier League",
       "date": "May 21",
-      "time": "7:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
       "teams": "Brighton Vs Southampton",
@@ -175,26 +72,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=a3c62829cf9232332cdb1594e30802fb&txTime=646a6839"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?user_session_id=0df3b8e61d0336d51625a09dc99a64f4&auth_key=1684695501-0-0-e57ac24892c868d20e3fa998460823ac&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=a3c62829cf9232332cdb1594e30802fb&txTime=646a6839"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1684695501-0-0-704c8345c126fb4fe0e79b32cc221f0d&user_session_id=1d0898de4e8faa53feb79ce24405d390&sub_m3u8=true&edge_slice=true"
         }
       ]
     },
     {
       "league": "🏆 Serie A",
       "date": "May 21",
-      "time": "7:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
       "teams": "Torino Vs Fiorentina",
@@ -204,26 +101,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?auth_key=1684695157-0-0-03d58f6731b1ed6366e1ad36ae59bfac&sub_m3u8=true&user_session_id=631e23c40db695c9bcd6dfd0fecfd70f&edge_slice=true"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?user_session_id=3bd2128007d3df961cb0bf53365f0417&sub_m3u8=true&edge_slice=true&auth_key=1684695561-0-0-508fcb4113d19d4b0216d5235b7b6b91"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1684695157-0-0-51cef0dc51891dc020bcbf5441c0e2d1&user_session_id=5ad4fdeae9f8c4a975a926a3ea058eba&sub_m3u8=true"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684695561-0-0-f365ccaa083cda05a585295a863d0f7a&user_session_id=1c32a4fea25e4211b6ddce37b4f2e080"
         }
       ]
     },
     {
       "league": "🏆 Ligue 1",
       "date": "May 21",
-      "time": "7:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
       "teams": "Reims Vs Angers",
@@ -233,26 +130,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1684695217-0-0-a65e9f3107c44e95d7365017020de2bf&sub_m3u8=true&user_session_id=8df29ce72bdeb791e7f104be64a4a412&edge_slice=true"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-664371_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=f894ef106a182d0ceedc452303defb31&auth_key=1684695621-0-0-370c9b4230ad4d30a7fcc5fe345c8d75"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684695217-0-0-6c4be2c1e95d924df23cc3cf69dd4ef1&user_session_id=3c8e7392940cd9f89b3289f60d029288"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-664371_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684695621-0-0-7ec19194e25fa64e67334ce70df3be43&user_session_id=b371ab131a456a4653b693e2053216e6"
         }
       ]
     },
     {
       "league": "🏆 Ligue 1",
       "date": "May 21",
-      "time": "7:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
       "teams": "Troyes Vs Strasbourg",
@@ -262,19 +159,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991117_lsd.m3u8?txSecret=6464d6f6f94250c93c49a078fd2c301f&txTime=646a68ed"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-530867_lsd.m3u8?user_session_id=fbb2c3183bfa635098b30154e9d62275&auth_key=1684695681-0-0-8e7c1c118cc1d95cd9966cd6f7474b71&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=6464d6f6f94250c93c49a078fd2c301f&txTime=646a68ed"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-530867_lhd.m3u8?edge_slice=true&user_session_id=a2a847b770e72e88efca21771648761f&auth_key=1684695681-0-0-a8fcf09bd5b745bb204f5edd6db58a12&sub_m3u8=true"
         }
       ]
     },
@@ -295,7 +192,7 @@
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lsd.m3u8?auth_key=1684695681-0-0-e7a28b8ce35f61817c47613bed904b89&edge_slice=true&sub_m3u8=true&user_session_id=47602f9cedaff3c5642c5d1a8cd9b65a"
         },
         {
           "type": "HD",
@@ -303,7 +200,7 @@
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lhd.m3u8?edge_slice=true&auth_key=1684695681-0-0-7af59cff3aa06f621a46c31edb53eb95&user_session_id=bacf2a824121742d4d5c8a8475cd7758&sub_m3u8=true"
         }
       ]
     },
