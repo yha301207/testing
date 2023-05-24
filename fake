@@ -145,64 +145,7 @@
         "livelink": ""
       }
     ]
-  },
-  {
-    "league": "🏆 Laliga",
-    "date": "May 25",
-    "time": "2:30 AM",
-    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-    "teams": "Espanyol Vs Atletico Madrid",
-    "hteam": "Espanyol",
-    "ateam": "Atletico Madrid",
-    "hotmat": "yes",
-    "link": [
-      {
-        "type": "SD",
-        "livelink": ""
-      },
-      {
-        "type": "SD 2",
-        "livelink": ""
-      },
-      {
-        "type": "HD",
-        "livelink": ""
-      },
-      {
-        "type": "HD 2",
-        "livelink": ""
-      }
-    ]
-  },
-  {
-    "league": "🏆 Laliga",
-    "date": "May 25",
-    "time": "2:30 AM",
-    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-    "teams": "Real Betis Vs Getafe",
-    "hteam": "Real Betis",
-    "ateam": "Getafe",
-    "hotmat": "no",
-    "link": [
-      {
-        "type": "SD",
-        "livelink": ""
-      },
-      {
-        "type": "SD 2",
-        "livelink": ""
-      },
-      {
-        "type": "HD",
-        "livelink": ""
-      },
-      {
-        "type": "HD 2",
-        "livelink": ""
-      }
-    ]
   }
+  
 ]
 }
