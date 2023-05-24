@@ -36,7 +36,7 @@
   {
     "league": "🏆 Laliga",
     "date": "May 25",
-    "time": "12:00 AM",
+    "time": "live",
     "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
     "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
     "teams": "Elche Vs Sevilla",
@@ -46,15 +46,15 @@
     "link": [
       {
         "type": "SD",
-        "livelink": ""
+        "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?edge_slice=true&user_session_id=4bb38293104f965e2b59fff4bf5166f4&sub_m3u8=true&auth_key=1684971697-0-0-21ff4e398660da501b746953607f4258"
       },
       {
         "type": "SD 2",
-        "livelink": ""
+        "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?edge_slice=true&user_session_id=0c5f2694dde4aae89551125570ff1ba1&sub_m3u8=true&auth_key=1684971757-0-0-4ec6231e37bd1a897791317d9f85a962"
       },
       {
         "type": "HD",
-        "livelink": ""
+        "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?edge_slice=true&user_session_id=a414d5399547d433acce27174de7f93c&sub_m3u8=true&auth_key=1684971817-0-0-c43b71de3e14922d66afe8bd874c9d18"
       },
       {
         "type": "HD 2",
@@ -65,7 +65,7 @@
   {
     "league": "🏆 Laliga",
     "date": "May 25",
-    "time": "12:00 AM",
+    "time": "live",
     "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
     "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
     "teams": "Villarreal Vs Cadiz",
@@ -75,11 +75,11 @@
     "link": [
       {
         "type": "SD",
-        "livelink": ""
+        "livelink": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=1749f11fa976319a8e5573cbec817e01&txTime=646ea1a1"
       },
       {
         "type": "SD 2",
-        "livelink": ""
+        "livelink": "https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=e7fc5cf7181da528f9e575b0efbd588e&txTime=646ea1a1"
       },
       {
         "type": "HD",
