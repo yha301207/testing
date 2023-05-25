@@ -34,7 +34,7 @@
     {
       "league": "🏆 Premier League",
       "date": "May 26",
-      "time": "1:30 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
       "teams": "Man United Vs Chelsea",
@@ -44,19 +44,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=721c8360ea9981c20686ed1b011e931f&txTime=646ffd72"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=ec77e4f68211ac1ec6ec81dd6358b8e9&txTime=646ffdea"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=2d88c95db27cf8a2bc8caeb9de9a17e0&txTime=646ffdae"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1685061158-0-0-791894b615609b590a8f0ff157236aa6&user_session_id=d812eec35b9e47067b76d28aa411fe47&edge_slice=true"
         }
       ]
     },
