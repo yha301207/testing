@@ -1,93 +1,79 @@
 {
   "status": true,
   "mdata": [
-    
-    {
-      "league": "🏆 Laliga",
-      "date": "May 26",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-      "teams": "Mallorca Vs Valencia",
-      "hteam": "Mallorca",
-      "ateam": "Valencia",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=827eaff99e5b377d9f5074d8a236ac96&txTime=646ff17e"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=0f22969e90ff227f787e0e93603582fa&txTime=646ff1ba"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685058038-0-0-0dc8e30ab1848c37de9e90aea5a9b6b4&user_session_id=297b8cb9e663ac1faac17c5f5e4616fb&edge_slice=true&sub_m3u8=true"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=a2fd3fbc4b28b99cf696f36e3eb0eb32&txTime=646ff1f6"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Premier League",
-      "date": "May 26",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "teams": "Man United Vs Chelsea",
-      "hteam": "Man United",
-      "ateam": "Chelsea",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=721c8360ea9981c20686ed1b011e931f&txTime=646ffd72"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=ec77e4f68211ac1ec6ec81dd6358b8e9&txTime=646ffdea"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=2d88c95db27cf8a2bc8caeb9de9a17e0&txTime=646ffdae"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1685061158-0-0-791894b615609b590a8f0ff157236aa6&user_session_id=d812eec35b9e47067b76d28aa411fe47&edge_slice=true"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Laliga",
-      "date": "May 26",
-      "time": "2:00 AM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-      "teams": "Osasuna Vs Athletic Club",
-      "hteam": "Osasuna",
-      "ateam": "Athletic Club",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    }
-  ]
+  {
+    "league": "MAN U",
+    "date": "TV Channel",
+    "time": "live",
+    "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+    "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+    "teams": "Man United TV",
+    "hteam": "MAN U",
+    "ateam": "TV",
+    "hotmat": "yes",
+    "link": [
+      {
+        "type": "SD",
+        "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+      },
+      {
+        "type": "SD",
+        "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+      },
+      {
+        "type": "HD",
+        "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+      },
+      {
+        "type": "FHD",
+        "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+      }
+    ]
+  },
+  {
+    "league": "Real Madrid",
+    "date": "TV Channel",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+    "teams": "Real Madrid TV",
+    "hteam": "RealMadrid",
+    "ateam": "TV",
+    "link": [
+      {
+        "type": "Auto",
+        "livelink": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
+      }
+    ]
+  },
+  {
+    "league": "🏆 Serie A",
+    "date": "May 27",
+    "time": "1:15 AM",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+    "teams": "Sampdoria Vs Sassuolo",
+    "hteam": "Sampdoria",
+    "ateam": "Sassuolo",
+    "hotmat": "no",
+    "link": [
+      {
+        "type": "SD",
+        "livelink": ""
+      },
+      {
+        "type": "SD 2",
+        "livelink": ""
+      },
+      {
+        "type": "HD",
+        "livelink": ""
+      },
+      {
+        "type": "HD 2",
+        "livelink": ""
+      }
+    ]
+  }
+]
 }
