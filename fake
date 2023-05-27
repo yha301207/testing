@@ -1,28 +1,7 @@
 {
   "status": true,
   "mdata": [
-    
-    {
-      "league": "🏆 Serie A",
-      "date": "May 27",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-      "teams": "Salernitana Vs Udinese",
-      "hteam": "Salernitana",
-      "ateam": "Udinese",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6"
-        }
-      ]
-    },
+   
     {
       "league": "🏆 Serie A",
       "date": "May 27",
@@ -260,7 +239,7 @@
     {
       "league": "🏆 Laliga",
       "date": "May 27",
-      "time": "11:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
       "teams": "Sevilla Vs Real Madrid",
@@ -270,19 +249,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685227478-0-0-f3386529af40a54400e5ba6e7d28d584&user_session_id=220afd515630c47dfb7b768674cbd577&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=88637590ff0bdf797d51d7133e5048fa&auth_key=1685227598-0-0-b61ad4eb358e03fd3a99113dc6c6b85a"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1685227658-0-0-0be77a1df6338a567ecc900ca5d35197&user_session_id=cc6752c86a69f18fb08d28eea3b6fc50"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1685227598-0-0-938d9a1cb1dfec4de1a653b4d91b8fef&user_session_id=0e2f54778d6a57495650677514faa77c"
         }
       ]
     },
