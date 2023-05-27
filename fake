@@ -265,150 +265,271 @@
         }
       ]
     },
-    {
-      "league": "🏆 Serie A",
-      "date": "May 28",
-      "time": "1:15 AM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-      "teams": "Inter Vs Atalanta",
-      "hteam": "Inter",
-      "ateam": "Atalanta",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    },
-    {
-      "league": "🏆 Ligue 1",
-      "date": "May 28",
-      "time": "1:30 AM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
-      "teams": "Angers Vs Troyes",
-      "hteam": "Angers",
-      "ateam": "Troyes",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    },
-    {
-      "league": "🏆 Ligue 1",
-      "date": "May 28",
-      "time": "1:30 AM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-      "teams": "Lyon Vs Reims",
-      "hteam": "Lyon",
-      "ateam": "Reims",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    },
-    {
-      "league": "🏆 Ligue 1",
-      "date": "May 28",
-      "time": "1:30 AM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-      "teams": "Rennes Vs Monaco",
-      "hteam": "Rennes",
-      "ateam": "Monaco",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    },
-    {
-      "league": "🏆 Ligue 1",
-      "date": "May 28",
-      "time": "1:30 AM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-      "teams": "Strasbourg Vs psg",
-      "hteam": "Strasbourg",
-      "ateam": "PSG",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": ""
-        },
-        {
-          "type": "SD 2",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD 2",
-          "livelink": ""
-        }
-      ]
-    }
-  ]
+     {
+
+           "league": "🏆 Serie A",
+
+            "date": "May 28",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+
+            "teams" : "Inter Vs Atalanta",
+
+            "hteam" : "Inter",
+
+            "ateam" : "Atalanta",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=a90d57b60511d744b4cd97042437c5e0&txTime=6472893e"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991127_lsd.m3u8?txSecret=55857d19e130bd3c4a8358ee29d70dfb&txTime=64728902"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=a90d57b60511d744b4cd97042437c5e0&txTime=6472893e"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=55857d19e130bd3c4a8358ee29d70dfb&txTime=64728902"
+
+                }
+
+                
+
+            ]
+
+
+
+},
+           {
+
+           "league": "🏆 Ligue 1",
+
+            "date": "May 28",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+
+            "teams" : "Lyon Vs Reims",
+
+            "hteam" : "Lyon",
+
+            "ateam" : "Reims",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?sub_m3u8=true&user_session_id=101b194ebac6579a2a54ae8ca1e1ef1a&edge_slice=true&auth_key=1685227898-0-0-24894abc97bf74a33f4a857290dd9295"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?user_session_id=7b6625b2d7683282c239b2a280b6de1b&sub_m3u8=true&auth_key=1685227958-0-0-7e7eefd3af8275a3c6b0dff72ebae473&edge_slice=true"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685227898-0-0-b70df98e6d881a0b2906acc579aed4eb&sub_m3u8=true&edge_slice=true&user_session_id=7714c2bf3e90e4de547cb5223bfc9c2a"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=fef23f7a49bf57b2a29e28d6e8da8cd1&auth_key=1685227958-0-0-615507b5e50a57a895f7443c372b51b0"
+
+                }
+
+                
+
+            ]
+
+},
+
+          
+
+           {
+
+           "league": "🏆 Ligue 1",
+
+            "date": "May 28",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+
+            "teams" : "Rennes Vs Monaco",
+
+            "hteam" : "Rennes",
+
+            "ateam" : "Monaco",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=702af5c9fdf4518a02eeed9796b4cc7d&txTime=647289f2"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=e9eb55143653bcb1903ef8034dc3cc2b&txTime=647289f2"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=e9eb55143653bcb1903ef8034dc3cc2b&txTime=647289f2"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=e9eb55143653bcb1903ef8034dc3cc2b&txTime=647289f2"
+
+                }
+
+                
+
+            ]
+
+},
+
+          
+
+           {
+
+           "league": "🏆 Ligue 1",
+
+            "date": "May 28",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+
+            "teams" : "Strasbourg Vs psg",
+
+            "hteam" : "Strasbourg",
+
+            "ateam" : "PSG",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?auth_key=1685228078-0-0-d4b8900f3874867adfc6950beab15429&sub_m3u8=true&user_session_id=c97c4629bdee86b5ca2efeff0df6260a&edge_slice=true"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?auth_key=1685228078-0-0-97b37c4c6a3ae0b8d99b10d2b5e8f268&sub_m3u8=true&user_session_id=d4df548e7a24efb0788c761000c42f3d&edge_slice=true"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685228078-0-0-1035f165d2328a7910f0819aca8c130a&user_session_id=729fce2bc537a18df338b54e4e83329f&edge_slice=true&sub_m3u8=true"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?user_session_id=0c3bbe6560c8fe371bd257ce71a4f766&auth_key=1685228078-0-0-0ea289aa5c238d8352881643dcff583b&edge_slice=true&sub_m3u8=true"
+
+                }
+
+                
+
+            ]
 }
+ ]
