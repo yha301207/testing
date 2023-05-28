@@ -1,51 +1,7 @@
 {
   "status": true,
   "mdata": [
-   {
-      "league": "MAN U",
-      "date": "TV Channel",
-      "time": "live",
-      "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-      "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-      "teams": "Man United TV",
-      "hteam": "MAN U",
-      "ateam": "TV",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-        },
-        {
-          "type": "SD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        },
-        {
-          "type": "FHD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "Real Madrid",
-      "date": "TV Channel",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "teams": "Real Madrid TV",
-      "hteam": "RealMadrid",
-      "ateam": "TV",
-      "link": [
-        {
-          "type": "Auto",
-          "livelink": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
-        }
-      ]
-    },
+   
      {
 
            "league": "🏆 Serie A",
@@ -110,7 +66,141 @@
 
             ]
 
+}, 
+{
+
+           "league": "🏆 Serie A",
+
+            "date": "May 28",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+
+            "teams" : "Bologna Vs Napoli",
+
+            "hteam" : "Bologna",
+
+            "ateam" : "Napoli",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?auth_key=1685298861-0-0-725f449609068d12dee14d6100600cfa&sub_m3u8=true&user_session_id=1cf830010e118a9abb5134a1e59dc8df&edge_slice=true"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?sub_m3u8=true&auth_key=1685298758-0-0-55ce9b60e50b6000880f12bf1699a311&user_session_id=1fc235da43bf6efc2fba711187feec86&edge_slice=true"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1685298861-0-0-a712a4cbe3df2404aed56977238a2841&edge_slice=true&user_session_id=7b0d5eb50140cfe1387de34f30a424a1&sub_m3u8=true"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?user_session_id=236c81b9ce38b5ac762b80c0ef837d90&edge_slice=true&sub_m3u8=true&auth_key=1685298758-0-0-f6abd711c4b7ca5b00da02b1a835c2d6"
+
+                }
+
+                
+
+            ]
+
 },
+
+          
+
+           {
+
+           "league": "🏆 Serie A",
+
+            "date": "May 28",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+
+            "teams" : "Monza Vs Lecce",
+
+            "hteam" : "Monza",
+
+            "ateam" : "Lecce",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685298981-0-0-59912008563a4eea0989754c7e3edd03&user_session_id=b92259fb6a588574bab94d9a0e79b74f"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=ede672a52ca901dd913f3794e91045f9&txTime=64739f72"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=ede672a52ca901dd913f3794e91045f9&txTime=64739f72"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?auth_key=1685298981-0-0-f49988b9c43f71fb094e866b65f6b1c3&sub_m3u8=true&user_session_id=ec22e066ef34eb398d8a068c0dff7e3b&edge_slice=true"
+
+                }
+
+                
+
+            ]
+
+},
+
     {
   "league": "🏆 Premier League",
   "date": "May 28",
