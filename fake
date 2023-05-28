@@ -11,6 +11,82 @@
 
             "time": "live",
 
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+
+            "teams" : "Man United Vs Fulham",
+
+            "hteam" : "Man United",
+
+            "ateam" : "Fulham",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=6973658c7c57fd0ae2f5603f03e5751c&txTime=6473c1aa"
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lsd.m3u8?user_session_id=01a48c2d6cc411898b3501b3cd2c7462&edge_slice=true&sub_m3u8=true&auth_key=1685308341-0-0-6dc7bbafdbdec8b5bbf101c15e28c99c"
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=6973658c7c57fd0ae2f5603f03e5751c&txTime=6473c1aa"
+
+         
+
+                },
+             {
+
+                    "type": "English HD",
+
+                "livelink":"https://waskseshs.azureedge.net/live/spf/chunks.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?auth_key=1685308341-0-0-b626d084ecbf779cc79d3adb83c9038f&edge_slice=true&sub_m3u8=true&user_session_id=4efed3b8dcf046c0c112932f7a0e6ce4"
+
+                }
+
+                
+
+            ]
+
+},
+
+      
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 28",
+
+            "time": "live",
+
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
