@@ -319,7 +319,7 @@
   {
     "league": "🏆 Laliga",
     "date": "May 28",
-    "time": "11:30 PM",
+    "time": "live",
     "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
     "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
     "teams": "Barcelona Vs Mallorca",
@@ -327,21 +327,22 @@
     "ateam": "Mallorca",
     "hotmat": "yes",
     "link": [
+    
       {
         "type": "SD",
-        "livelink": ""
+        "livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=d43ad0b796d7b92c96a904d7d5ff5c28&txTime=6473d9ce"
       },
       {
         "type": "SD 2",
-        "livelink": ""
+        "livelink": "https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=fe019bbf07c07b4a2e375bb0b41b6a8e&txTime=6473d992"
       },
       {
         "type": "HD",
-        "livelink": ""
+        "livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=fe019bbf07c07b4a2e375bb0b41b6a8e&txTime=6473d992"
       },
       {
         "type": "HD 2",
-        "livelink": ""
+        "livelink": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=d43ad0b796d7b92c96a904d7d5ff5c28&txTime=6473d9ce"
       }
     ]
   },
