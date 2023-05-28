@@ -1,26 +1,59 @@
 {
   "status": true,
   "mdata": [
-   {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 28",
-
-            "time": "3 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-
-            "teams" : "Inter Vs Atalanta",
-
-            "hteam" : "Inter",
-
-            "ateam" : "Atalanta",
-
-            "hotmat":"yes",
-            "hllink": [
+    {
+      "league": "🏆 League 1",
+      "date": "May 28",
+      "time": "1 - 1",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+      "teams": "Strasbourg Vs PSG",
+      "hteam": "Strasbourg",
+      "ateam": "PSG",
+      "hotmat": "yes",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256643/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256643/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Serie A",
+      "date": "May 27",
+      "time": "2 - 1",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+      "teams": "Fiorentina Vs Roma",
+      "hteam": "Fiorentina",
+      "ateam": "Roma",
+      "hotmat": "yes",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256595/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256595/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Serie A",
+      "date": "May 28",
+      "time": "3 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+      "teams": "Inter Vs Atalanta",
+      "hteam": "Inter",
+      "ateam": "Atalanta",
+      "hotmat": "yes",
+      "hllink": [
         {
           "quality": "SD",
           "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256646/360p.m3u8"
@@ -31,7 +64,7 @@
         }
       ]
     },
-  {
+    {
       "league": "🏆 Laliga",
       "date": "May 27",
       "time": "1 - 2",
