@@ -626,35 +626,7 @@
     }
   ]
 },
-{
-  "league": "🏆 Serie A",
-  "date": "May 28",
-  "time": "05:00 PM",
-  "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-  "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-  "teams": "Bologna Vs Napoli",
-  "hteam": "Bologna",
-  "ateam": "Napoli",
-  "hotmat": "yes",
-  "link": [
-    {
-      "type": "SD",
-      "livelink": ""
-    },
-    {
-      "type": "SD 2",
-      "livelink": ""
-    },
-    {
-      "type": "HD",
-      "livelink": ""
-    },
-    {
-      "type": "HD 2",
-      "livelink": ""
-    }
-  ]
-},
+
 {
   "league": "🏆 Serie A",
   "date": "May 28",
