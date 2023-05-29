@@ -2,153 +2,48 @@
   "status": true,
   "mdata": [
     
-    {
-      "league": "🏆 Laliga",
-      "date": "May 28",
+   {
+      "league": "MAN U",
+      "date": "TV Channel",
       "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-      "teams": "Barcelona Vs Mallorca",
-      "hteam": "Barcelona",
-      "ateam": "Mallorca",
+      "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+      "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+      "teams": "Man United TV",
+      "hteam": "MAN U",
+      "ateam": "TV",
       "hotmat": "yes",
       "link": [
         {
           "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=d43ad0b796d7b92c96a904d7d5ff5c28&txTime=6473d9ce"
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
         },
         {
-          "type": "SD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=fe019bbf07c07b4a2e375bb0b41b6a8e&txTime=6473d992"
+          "type": "SD",
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
         },
         {
           "type": "HD",
-          "livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=fe019bbf07c07b4a2e375bb0b41b6a8e&txTime=6473d992"
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
         },
         {
-          "type": "HD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=d43ad0b796d7b92c96a904d7d5ff5c28&txTime=6473d9ce"
+          "type": "FHD",
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
         }
       ]
     },
     {
-      "league": "🏆 Laliga",
-      "date": "May 28",
+      "league": "Real Madrid",
+      "date": "TV Channel",
       "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-      "teams": "Atletico Madrid Vs Real Sociedad",
-      "hteam": "Atletico Madrid",
-      "ateam": "Real Sociedad",
-      "hotmat": "yes",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "teams": "Real Madrid TV",
+      "hteam": "RealMadrid",
+      "ateam": "TV",
       "link": [
         {
-          "type": "SD",
-          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685314178-0-0-b7a605d04466a6331124b8f8c85953e9&user_session_id=8b2a441fc2b07838fbc9127dd0dfeb32"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=21276e6ffe5345486bf1ccf7a636883f&txTime=6473dafa"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685314178-0-0-1a5ba8d762c0b233aeb401fe62b9fac0&user_session_id=10ab6a90338b8799661ae92466893a14"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=bdcdcd43e843641f1df46d20a218c815&txTime=6473dabe"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Laliga",
-      "date": "May 28",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-      "teams": "Almeria Vs Real Valladolid",
-      "hteam": "Almeria",
-      "ateam": "Real Valladolid",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1685313621-0-0-df83eaa0d8e6ede201e1781fb45df513&sub_m3u8=true&user_session_id=11eaaacab73ba515019ae5bb6a1dc63e&edge_slice=true"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685313621-0-0-763532b38cd35d86c2c9379d5984a257&sub_m3u8=true&user_session_id=1c0e3c33a0cf9974ddd645a29ce21941&edge_slice=true"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Laliga",
-      "date": "May 28",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-      "teams": "Cadiz Vs Celta Vigo",
-      "hteam": "Cadiz",
-      "ateam": "Celta Vigo",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?edge_slice=true&auth_key=1685313561-0-0-87d2284350b78d8dc563650f5ec85824&user_session_id=46d35294c1ca04d7bbeced21c0672bfe&sub_m3u8=true"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?auth_key=1685313561-0-0-f393b8db2b9b82c2b9b770dc97bee5ff&sub_m3u8=true&edge_slice=true&user_session_id=94b8ae4e90b26b591729ca7b0bd0e821"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Laliga",
-      "date": "May 28",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-      "teams": "Valencia Vs Espanyol",
-      "hteam": "Valencia",
-      "ateam": "Espanyol",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1685313502-0-0-1608a1a89225a311b46d366a0ccddd51&edge_slice=true&sub_m3u8=true&user_session_id=771ac9f6ffd021892bcc337f8fa2454c"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?user_session_id=621101d47cfca201b5d1f02096526746&edge_slice=true&sub_m3u8=true&auth_key=1685313502-0-0-c8f3b87108ee783f43909d1605dd7a1e"
-        }
-      ]
-    },
-    {
-      "league": "🏆 Serie A",
-      "date": "May 29",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-      "teams": "Juventus Vs AC Milan",
-      "hteam": "Juventus",
-      "ateam": "AC Milan",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685319398-0-0-fae1b2761915709311497c0da53d641f&edge_slice=true&user_session_id=362502bae56009eb8104409d843a29d7&sub_m3u8=true"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=79eb0225f26fcd5d01c0b7049a02e230&txTime=6473ef5e"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1685319398-0-0-e3ea98bbf77d0be7c587d742489fc2cc&edge_slice=true&user_session_id=fa03b42bef8f661c8249c1b402596836&sub_m3u8=true"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=79eb0225f26fcd5d01c0b7049a02e230&txTime=6473ef5e"
+          "type": "Auto",
+          "livelink": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
         }
       ]
     }
