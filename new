@@ -1,4 +1,5 @@
-{
+
+    {
   "status": true,
   "mdata": [
    {
@@ -18,7 +19,7 @@
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256740/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256740/720p.m3u8"
         }
       ]
     },
@@ -26,8 +27,9 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "1-0",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+               
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "teams": "BrentfordVsManchesterCity",
       "hteam": "Brentford",
       "ateam": "ManchesterCity",
@@ -35,11 +37,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256753/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256753/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256753/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256753/720p.m3u8"
         }
       ]
     },
@@ -47,8 +49,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "5-0",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
       "teams": "ArsenalVsWolves",
       "hteam": "Arsenal",
       "ateam": "Wolves",
@@ -56,11 +58,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256755/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256755/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256755/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256755/720p.m3u8"
         }
       ]
     },
@@ -68,8 +70,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "1-1",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
       "teams": "ChelseaVsNewcastle",
       "hteam": "Chelsea",
       "ateam": "Newcastle",
@@ -77,11 +79,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/51/256749/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/51/256749/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/51/256749/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/51/256749/720p.m3u8"
         }
       ]
     },
@@ -89,8 +91,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "4-4",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
       "teams": "SouthamptonVsLiverpool",
       "hteam": "Southampton",
       "ateam": "Liverpool",
@@ -98,11 +100,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256758/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256758/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256758/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256758/720p.m3u8"
         }
       ]
     },
@@ -110,8 +112,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "1-4",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
       "teams": "LeedsVsTottenham",
       "hteam": "Leeds",
       "ateam": "Tottenham",
@@ -119,11 +121,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256775/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256775/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256775/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256775/720p.m3u8"
         }
       ]
     },
@@ -131,8 +133,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "2-1",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
       "teams": "LeicesterVsWestHam",
       "hteam": "Leicester",
       "ateam": "WestHam",
@@ -140,11 +142,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/51/256756/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/51/256756/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/51/256756/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/51/256756/720p.m3u8"
         }
       ]
     },
@@ -152,8 +154,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "1-0",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
       "teams": "EvertonVsAFCBournemouth",
       "hteam": "Everton",
       "ateam": "AFCBournemouth",
@@ -161,11 +163,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/51/256743/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/51/256743/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/51/256743/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/51/256743/720p.m3u8"
         }
       ]
     },
@@ -173,8 +175,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "1 - 1",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
       "teams": "CrystalPalaceVsNottingham",
       "hteam": "CrystalPalace",
       "ateam": "Nottingham",
@@ -182,11 +184,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256772/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256772/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256772/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256772/360p.m3u8"
         }
       ]
     },
@@ -194,8 +196,8 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "2 - 1",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
       "teams": "AstonVillaVsBrighton",
       "hteam": "AstonVilla",
       "ateam": "Brighton",
@@ -203,11 +205,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256769/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256769/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/28/42/256769/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256769/720p.m3u8"
         }
       ]
     },
@@ -215,8 +217,8 @@
       "league": "🏆Laliga",
       "date": "May28",
       "time": "3 - 0",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
       "teams": "BarcelonaVsMallorca",
       "hteam": "Barcelona",
       "ateam": "Mallorca",
@@ -237,19 +239,19 @@
       "league": "🏆Ligue1",
       "date": "May28",
       "time": "3 - 0",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
       "teams": "Lyon-Reims",
       "hteam": "Lyon",
       "ateam": "Reims",
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/27/42/256648/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256648/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/27/42/256648/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256648/720p.m3u8"
         }
       ]
     },
@@ -257,19 +259,19 @@
       "league": "🏆SerieA",
       "date": "May28",
       "time": "3 - 2",
-      "himg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-      "aimg": "https: //images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
       "teams": "Inter-Atalanta",
       "hteam": "Inter",
       "ateam": "Atalanta",
       "hllink": [
         {
           "quality": "SD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/27/42/256646/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256646/360p.m3u8"
         },
         {
           "quality": "HD",
-          "link": "https: //foo.topravideo.com/UpFiles/2023/5/27/42/256646/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256646/720p.m3u8"
         }
       ]
     },
