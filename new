@@ -1,8 +1,7 @@
-
-    {
+{
   "status": true,
   "mdata": [
-  {
+    {
       "league": "🏆 Serie A",
       "date": "May 29",
       "time": "0-1",
@@ -18,12 +17,11 @@
           "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256815/360p.m3u8"
         },
         {
-          "quality": "SD 2",
+          "quality": "HD",
           "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256815/720p.m3u8"
         }
       ]
     },
- 
     {
       "league": "🏆 Laliga",
       "date": "May 28",
@@ -40,16 +38,13 @@
           "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256791/360p.m3u8"
         },
         {
-          "quality": "SD 2",
+          "quality": "HD",
           "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256791/720p.m3u8"
-        },
+        }
         
       ]
     },
-    
-    
-
-   {
+    {
       "league": "🏆 Premier League",
       "date": "May 28",
       "time": "2 - 1",
@@ -74,7 +69,6 @@
       "league": "🏆PremierLeague",
       "date": "May28",
       "time": "1-0",
-               
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "teams": "BrentfordVsManchesterCity",
@@ -467,513 +461,266 @@
         }
       ]
     },
-     {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "1 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-
-            "teams" : "1. FC Köln - Bayern München",
-
-             "hteam" : "1. FC Köln",
-
-            "ateam" : "Bayern München",
-
-            "hllink": [
-
-{
-
-  "quality":"Auto",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256565/0.m3u8"
-
-},
-
-{
-
-  "quality":"Trophy Celebration",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256580/0.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "2 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-
-            "teams" : "Dortmund - Mainz",
-
-             "hteam" : "Dortmund",
-
-            "ateam" : "Mainz",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256585/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256585/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "3 - 0",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-
-            "teams" : "Bochum - Leverkusen",
-
-             "hteam" : "Bochum",
-
-            "ateam" : "Leverkusen",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256570/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256570/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "2 - 0",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-
-            "teams" : "M'Gladbach - Augsburg",
-
-             "hteam" : "M'Gladbach",
-
-            "ateam" : "Augsburg",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256571/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256571/0.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "2 - 1",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-
-            "teams" : "Frankfurt - Freiburg",
-
-             "hteam" : "Frankfurt",
-
-            "ateam" : "Freiburg",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256578/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256578/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "4 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-
-            "teams" : "RB Leipzig - Schalke 04",
-
-             "hteam" : "RB Leipzig",
-
-            "ateam" : "Schalke 04",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256576/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256576/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "1 - 0",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-
-            "teams" : "Union Berlin - Werder Bremen",
-
-             "hteam" : "Union Berlin",
-
-            "ateam" : "Werder Bremen",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256583/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256583/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "1 - 1",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
-
-            "teams" : "VfB Stuttgart - TSG Hoffenheim",
-
-             "hteam" : "VfB Stuttgart",
-
-            "ateam" : "TSG Hoffenheim",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":""
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":""
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Bundesliga",
-
-            "date": "May 27",
-
-            "time": "1 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
-
-            "teams" : "Wolfsburg - Hertha BSC",
-
-             "hteam" : "Wolfsburg",
-
-            "ateam" : "Hertha BSC",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256587/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256587/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Serie A",
-
-            "date": "May 27",
-
-            "time": "3 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-
-            "teams" : "Salernitana - Udinese",
-
-             "hteam" : "Salernitana",
-
-            "ateam" : "Udinese",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256548/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256548/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Serie A",
-
-            "date": "May 27",
-
-            "time": "0 - 4",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-
-            "teams" : "Spezia - Torino",
-
-             "hteam" : "Spezia",
-
-            "ateam" : "Torino",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256545/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256545/720p.m3u8"
-
-}
-
-]
-
-}, 
- {
-
-            "league": "🏆 Serie A",
-
-            "date": "May 27",
-
-            "time": "2 - 2",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-
-            "teams" : "Sampdoria - Sassuolo",
-
-             "hteam" : "Sampdoria",
-
-            "ateam" : "Sassuolo",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/26/42/256531/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/26/42/256531/720p.m3u8"
-
-}
-
-]
-
-}, 
-{
-
-            "league": "🏆 Ligue 1",
-
-            "date": "May 28",
-
-            "time": "3 - 0",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-
-            "teams" : "Lyon - Reims",
-
-             "hteam" : "Lyon",
-
-            "ateam" : "Reims",
-
-            "hllink": [
-
-{
-
-  "quality":"SD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256648/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256648/720p.m3u8"
-
-}
-
-]
-
-}, 
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "1 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+      "teams": "1. FC Köln - Bayern München",
+      "hteam": "1. FC Köln",
+      "ateam": "Bayern München",
+      "hllink": [
+        {
+          "quality": "Auto",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256565/0.m3u8"
+        },
+        {
+          "quality": "Trophy Celebration",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256580/0.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "2 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+      "teams": "Dortmund - Mainz",
+      "hteam": "Dortmund",
+      "ateam": "Mainz",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256585/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256585/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "3 - 0",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+      "teams": "Bochum - Leverkusen",
+      "hteam": "Bochum",
+      "ateam": "Leverkusen",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256570/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256570/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "2 - 0",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+      "teams": "M'Gladbach - Augsburg",
+      "hteam": "M'Gladbach",
+      "ateam": "Augsburg",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256571/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256571/0.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "2 - 1",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+      "teams": "Frankfurt - Freiburg",
+      "hteam": "Frankfurt",
+      "ateam": "Freiburg",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256578/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256578/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "4 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+      "teams": "RB Leipzig - Schalke 04",
+      "hteam": "RB Leipzig",
+      "ateam": "Schalke 04",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256576/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256576/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "1 - 0",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+      "teams": "Union Berlin - Werder Bremen",
+      "hteam": "Union Berlin",
+      "ateam": "Werder Bremen",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256583/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256583/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "1 - 1",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+      "teams": "VfB Stuttgart - TSG Hoffenheim",
+      "hteam": "VfB Stuttgart",
+      "ateam": "TSG Hoffenheim",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": ""
+        },
+        {
+          "quality": "HD",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "league": "🏆 Bundesliga",
+      "date": "May 27",
+      "time": "1 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+      "teams": "Wolfsburg - Hertha BSC",
+      "hteam": "Wolfsburg",
+      "ateam": "Hertha BSC",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256587/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/51/256587/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Serie A",
+      "date": "May 27",
+      "time": "3 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+      "teams": "Salernitana - Udinese",
+      "hteam": "Salernitana",
+      "ateam": "Udinese",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256548/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256548/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Serie A",
+      "date": "May 27",
+      "time": "0 - 4",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+      "teams": "Spezia - Torino",
+      "hteam": "Spezia",
+      "ateam": "Torino",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256545/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256545/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Serie A",
+      "date": "May 27",
+      "time": "2 - 2",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+      "teams": "Sampdoria - Sassuolo",
+      "hteam": "Sampdoria",
+      "ateam": "Sassuolo",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/26/42/256531/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/26/42/256531/720p.m3u8"
+        }
+      ]
+    },
+    {
+      "league": "🏆 Ligue 1",
+      "date": "May 28",
+      "time": "3 - 0",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+      "teams": "Lyon - Reims",
+      "hteam": "Lyon",
+      "ateam": "Reims",
+      "hllink": [
+        {
+          "quality": "SD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256648/360p.m3u8"
+        },
+        {
+          "quality": "HD",
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/27/42/256648/720p.m3u8"
+        }
+      ]
+    },
     {
       "league": "🏆 Laliga",
       "date": "May 26",
