@@ -15,7 +15,7 @@
     "link": [
       {
         "type": "SD",
-        "livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=e54c88fbda924fad223b11225c400525&txTime=647b9556"
+        "livelink": "https://sports01.livnvess.com/live/stream-991135_lsd.m3u8?txSecret=05084bea054b1b42b4977c9cb034210d&txTime=647b9d8f"
       },
       {
         "type": "SD 2",
@@ -23,7 +23,7 @@
       },
       {
         "type": "HD",
-        "livelink": "https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=b089665bd82609bcf4a515bfb72d2274&txTime=647b94de"
+        "livelink": "https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=b86fee19e75f7b57ddb0e19411048426&txTime=647b9c5f"
       },
       {
         "type": "HD 2",
