@@ -2,185 +2,11 @@
     "status": true,
     "mdata": [
        
-        {
-            "league": "🏆 LaLiga",
-            "date": "Jun 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-            "teams": "Real Madrid Vs Athletic Club",
-            "hteam": "Real Madrid",
-            "ateam": "Athletic Club",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=4d5a9567f56e1b67bf409cc1e6c4a0ca&txTime=647d0d47"
-                },
-                {
-                    "type": "SD2",
-                    "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d00bc9abfab1ab0f479056a1f98d75c2&auth_key=1685917059-0-0-c99d9e144b7b2f9bd35ca045033ef1fb"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=4d5a9567f56e1b67bf409cc1e6c4a0ca&txTime=647d0d47"
-                },
-                {
-                    "type": "HD2",
-                    "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685917059-0-0-11b0b5cac5fe1012b1f54279646040a5&user_session_id=d0dc408b56c1ac2854eaeca1a3f662bb"
-                }
-                 
-            ]
-        },
-        {
-            "league": "🏆 Serie A",
-            "date": "Jun 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "teams": "Napoli Vs Sampdoria",
-            "hteam": "Napoli",
-            "ateam": "Sampdoria",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685917119-0-0-c6b447150d1c9885c3f5db6cda42892c&user_session_id=d7adc24b45868a1235eb022aeed1c722"
-                },
-                {
-                    "type": "SD2",
-                    "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685917239-0-0-e20fb11535e6f6d8ab9b4b57c4ddef28&user_session_id=3ab4ac987bfa42e1d981c98a48f98ab7"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685917119-0-0-d9201a4d609b8cfb570a172ab0f95d49&user_session_id=17ac5dd7d820f76819a8f457631c20ec"
-                },
-                {
-                    "type": "HD2",
-                    "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685917239-0-0-f43f579eb190f3ed53a16b3025561343&user_session_id=f082a3400417e4ac198fd591b5222983"
-                }
-            ]
-        },
-        {
-            "league": "🏆 LaLiga",
-            "date": "Jun 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "teams": "Villarreal Vs Atletico Madrid",
-            "hteam": "Villarreal",
-            "ateam": "Atletico Madrid",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=0f329440588cf5e59e40116d256470f5&txTime=647d0eeb"
-                },
-                {
-                    "type": "SD2",
-                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?sub_m3u8=true&user_session_id=ed1f1f7fb43695086e656e76b0799ff9&auth_key=1685917539-0-0-5e26be142dbb95160110581d97e3dfba&edge_slice=true"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=ed4393c190ff47a9fb264f581cd4e49f&txTime=647d0eaf"
-                },
-                {
-                    "type": "HD2",
-                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?sub_m3u8=true&auth_key=1685917539-0-0-8f79c1a9ccfe4f5dfba15e1ff6291d37&user_session_id=7d1711a22ade065ba901eca1cb8f6435&edge_slice=true"
-                }
-            ]
-        },
-        {
-            "league": "🏆 LaLiga",
-            "date": "Jun 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams": "Real Sociedad Vs Sevilla",
-            "hteam": "Real Sociedad",
-            "ateam": "Sevilla",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-197901_lsd.m3u8?txSecret=8ed50151665a136b70a7011ea4e22ddd&txTime=647d0fdb"
-                },
-                {
-                    "type": "SD2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-319191_lsd.m3u8?txSecret=67d722a77282bac325a4089ba14bc89d&txTime=647d1017"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=8ed50151665a136b70a7011ea4e22ddd&txTime=647d0fdb"
-                },
-                {
-                    "type": "HD2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=67d722a77282bac325a4089ba14bc89d&txTime=647d1017"
-                }
-            ]
-        },
-        {
-            "league": "🏆 LaLiga",
-            "date": "Jun 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams": "Mallorca Vs Rayo Vallecano",
-            "hteam": "Mallorca",
-            "ateam": "Rayo Vallecano",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=12f6049cad9a482721fd9b6a85dfb535&txTime=647d108f"
-                },
-                {
-                    "type": "SD2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-231997_lsd.m3u8?txSecret=f483afea440018d917c5b125e2a2ff8f&txTime=647d1233"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=12f6049cad9a482721fd9b6a85dfb535&txTime=647d108f"
-                },
-                {
-                    "type": "HD2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=f483afea440018d917c5b125e2a2ff8f&txTime=647d1233"
-                }
-            ]
-        },
-        {
-            "league": "🏆 LaLiga",
-            "date": "Jun 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-            "teams": "Osasuna Vs Girona",
-            "hteam": "Osasuna",
-            "ateam": "Girona",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lsd.m3u8?auth_key=1685918199-0-0-a536e97599e032edc010cffa7fb3d2fa&sub_m3u8=true&user_session_id=9b5969f1cbed57e7e46666dd30358103&edge_slice=true"
-                },
-                {
-                    "type": "SD2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-105723_lsd.m3u8?txSecret=4a2bf049fdb1264bbb2fe6740e52e8e1&txTime=647d139b"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?user_session_id=dc1e86226f9400043dee656feb3b7791&sub_m3u8=true&auth_key=1685918199-0-0-95476df7a8fa6bcb4f0ad6dc958cc01d&edge_slice=true"
-                },
-                {
-                    "type": "HD2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-105723_lhd.m3u8?txSecret=4a2bf049fdb1264bbb2fe6740e52e8e1&txTime=647d139b"
-                }
-            ]
-        },
+       
         {
             "league": "🏆 Laliga",
             "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams": "Celta Vigo Vs Barcelona",
@@ -190,113 +16,27 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=244ed001c1868e02f5516ab9c569332e&txTime=647d2ff7"
                 },
                 {
                     "type": "SD 2",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685925939-0-0-0f73ce5deadb69b0cead77aa42025c68&user_session_id=2e2cbb6dace85538aee03c4beb98b0d6"
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=244ed001c1868e02f5516ab9c569332e&txTime=647d2ff7"
                 },
                 {
                     "type": "HD 2",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=01bf0aadeb256a20f98a66baf0385474&auth_key=1685925939-0-0-f6c5465c6521e0e5b6cd58d41f64f5a5"
                 }
             ]
         },
+        
         {
             "league": "🏆 Laliga",
             "date": "June 5",
-            "time": "01:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams": "Elche Vs Cadiz",
-            "hteam": "Elche",
-            "ateam": "Cadiz",
-            "hotmat": "no",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": ""
-                },
-                {
-                    "type": "SD2",
-                    "livelink": ""
-                },
-                {
-                    "type": "HD",
-                    "livelink": ""
-                },
-                {
-                    "type": "HD2",
-                    "livelink": ""
-                }
-            ]
-        },
-        {
-            "league": "🏆 Laliga",
-            "date": "June 5",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams": "Celta Vigo Vs Barcelona",
-            "hteam": "Celta Vigo",
-            "ateam": "Barcelona",
-            "hotmat": "yes",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": ""
-                },
-                {
-                    "type": "SD 2",
-                    "livelink": ""
-                },
-                {
-                    "type": "HD",
-                    "livelink": ""
-                },
-                {
-                    "type": "HD 2",
-                    "livelink": ""
-                }
-            ]
-        },
-        {
-            "league": "🏆 Laliga",
-            "date": "June 5",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams": "Elche Vs Cadiz",
-            "hteam": "Elche",
-            "ateam": "Cadiz",
-            "hotmat": "no",
-            "link": [
-                {
-                    "type": "SD",
-                    "livelink": ""
-                },
-                {
-                    "type": "SD2",
-                    "livelink": ""
-                },
-                {
-                    "type": "HD",
-                    "livelink": ""
-                },
-                {
-                    "type": "HD2",
-                    "livelink": ""
-                }
-            ]
-        },
-        {
-            "league": "🏆 Laliga",
-            "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "teams": "Espanyol Vs Almeria",
@@ -306,7 +46,7 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=b72aff3ec3fef1c420493711375f98d8&txTime=647d31d7"
                 },
                 {
                     "type": "SD 2",
@@ -314,7 +54,7 @@
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=b72aff3ec3fef1c420493711375f98d8&txTime=647d31d7"
                 },
                 {
                     "type": "HD 2",
@@ -325,7 +65,7 @@
         {
             "league": "🏆 Laliga",
             "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "teams": "Real Betis Vs Valencia",
@@ -335,26 +75,26 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=883da20b666a25f1de464b50994ef1da&txTime=647d2ddb"
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-201313_lsd.m3u8?txSecret=e238597f4451e303c78d444faface1b8&txTime=647d30e7"
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=883da20b666a25f1de464b50994ef1da&txTime=647d2ddb"
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=e238597f4451e303c78d444faface1b8&txTime=647d30e7"
                 }
             ]
         },
         {
             "league": "🏆 Laliga",
             "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "teams": "Real Valladolid Vs Getafe",
@@ -364,7 +104,7 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-231997_lsd.m3u8?txSecret=37a9ad3bba9684376f94dda29b10907b&txTime=647d2f43"
                 },
                 {
                     "type": "SD2",
@@ -372,7 +112,7 @@
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=37a9ad3bba9684376f94dda29b10907b&txTime=647d2f43"
                 },
                 {
                     "type": "HD2",
@@ -383,7 +123,7 @@
         {
             "league": "🏆 Serie A",
             "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "teams": "AC Milan Vs Hellas Verona",
@@ -393,26 +133,26 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?edge_slice=true&user_session_id=4d72271e8113cd79590384002d3b6ab7&sub_m3u8=true&auth_key=1685925459-0-0-114b600141ef8358b625f0362b6b6e86"
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=7f6e53fd5671580ba4f8a1387e3e2ee5&auth_key=1685926059-0-0-9f7185b11fd628d2f6758bc4f75b8579"
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?edge_slice=true&auth_key=1685925459-0-0-5351907fc234f67e2ec337177cc41e8f&sub_m3u8=true&user_session_id=e96abfce162c145a5d5ce49b49ee2fa9"
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=591f1a43e3c85aefff430f0dca41f910&auth_key=1685926059-0-0-3c40fcf254582c8e2ce85c96c5beb1f8"
                 }
             ]
         },
         {
             "league": "🏆 Serie A",
             "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams": "Roma Vs Spezia",
@@ -422,7 +162,7 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=b7e938805f12e671ed67cbb8bbe60268&txTime=647d315f"
                 },
                 {
                     "type": "SD2",
@@ -430,7 +170,7 @@
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=b7e938805f12e671ed67cbb8bbe60268&txTime=647d315f"
                 },
                 {
                     "type": "HD2",
@@ -441,7 +181,7 @@
         {
             "league": "🏆 Serie A",
             "date": "June 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "teams": "Udinese Vs Juventus",
@@ -451,19 +191,19 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-421651_lsd.m3u8?txSecret=23f5e6bc0287063d3fc278c8a55a7339&txTime=647d2e8f"
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-420171_lsd.m3u8?txSecret=081fa0e2e8effb641158c2f849bd7b7f&txTime=647d2ecb"
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=23f5e6bc0287063d3fc278c8a55a7339&txTime=647d2e8f"
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=081fa0e2e8effb641158c2f849bd7b7f&txTime=647d2ecb"
                 }
             ]
         }
