@@ -108,7 +108,7 @@
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=b0e6bcbb792580cbe0ebdf4c1de59a46&txTime=647d346b"
                 },
                 {
                     "type": "HD",
@@ -116,7 +116,7 @@
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=b0e6bcbb792580cbe0ebdf4c1de59a46&txTime=647d346b"
                 }
             ]
         },
@@ -166,7 +166,7 @@
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?user_session_id=cef5ab41f55ba29a5cefbffdbcc1c7a3&sub_m3u8=true&auth_key=1685926839-0-0-0e8cc84846956f733f56b78f304af100&edge_slice=true"
                 },
                 {
                     "type": "HD",
@@ -174,7 +174,7 @@
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&auth_key=1685926839-0-0-e34094a1d8d08ddf7e4f3f3b21db0ffa&edge_slice=true&user_session_id=d0c27df17f839028a083c40f8171891a"
                 }
             ]
         },
