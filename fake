@@ -28,7 +28,12 @@
                 {
                     "type": "HD2",
                     "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685917059-0-0-11b0b5cac5fe1012b1f54279646040a5&user_session_id=d0dc408b56c1ac2854eaeca1a3f662bb"
+                },
+                {
+                    "type": "HD3",
+                    "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
                 }
+                 
             ]
         },
         {
@@ -115,6 +120,10 @@
                 {
                     "type": "HD2",
                     "livelink": "https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=67d722a77282bac325a4089ba14bc89d&txTime=647d1017"
+                },
+                {
+                    "type": "HD3",
+                    "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
                 }
             ]
         },
