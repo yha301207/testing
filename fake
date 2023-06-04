@@ -136,7 +136,7 @@
         {
             "league": "🏆 LaLiga",
             "date": "Jun 4",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "teams": "Real Sociedad Vs Sevilla",
@@ -146,26 +146,26 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-197901_lsd.m3u8?txSecret=8ed50151665a136b70a7011ea4e22ddd&txTime=647d0fdb"
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-319191_lsd.m3u8?txSecret=67d722a77282bac325a4089ba14bc89d&txTime=647d1017"
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=8ed50151665a136b70a7011ea4e22ddd&txTime=647d0fdb"
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=67d722a77282bac325a4089ba14bc89d&txTime=647d1017"
                 }
             ]
         },
         {
             "league": "🏆 LaLiga",
             "date": "Jun 4",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "teams": "Mallorca Vs Rayo Vallecano",
@@ -175,26 +175,26 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=12f6049cad9a482721fd9b6a85dfb535&txTime=647d108f"
                 },
                 {
                     "type": "SD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-231997_lsd.m3u8?txSecret=f483afea440018d917c5b125e2a2ff8f&txTime=647d1233"
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=12f6049cad9a482721fd9b6a85dfb535&txTime=647d108f"
                 },
                 {
                     "type": "HD2",
-                    "livelink": ""
+                    "livelink": "https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=f483afea440018d917c5b125e2a2ff8f&txTime=647d1233"
                 }
             ]
         },
         {
             "league": "🏆 LaLiga",
             "date": "Jun 4",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "teams": "Osasuna Vs Girona",
@@ -204,7 +204,7 @@
             "link": [
                 {
                     "type": "SD",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lsd.m3u8?auth_key=1685918199-0-0-a536e97599e032edc010cffa7fb3d2fa&sub_m3u8=true&user_session_id=9b5969f1cbed57e7e46666dd30358103&edge_slice=true"
                 },
                 {
                     "type": "SD2",
@@ -212,7 +212,7 @@
                 },
                 {
                     "type": "HD",
-                    "livelink": ""
+                    "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?user_session_id=dc1e86226f9400043dee656feb3b7791&sub_m3u8=true&auth_key=1685918199-0-0-95476df7a8fa6bcb4f0ad6dc958cc01d&edge_slice=true"
                 },
                 {
                     "type": "HD2",
