@@ -31,12 +31,18 @@
 
 {
 
+  "quality":"SD2",
+
+         "link":"https://open.http.mp.streamamg.com/p/3000379/sp/300037900/playManifest/entryId/0_lim0bh3a/flavorId/0_pn33z8w6/format/url/protocol/https/a.mp4?ks=NDRmNDE0ZDY4MmE3OTRhOTZhZTg1ZDU2YjUwZTc2ZjUzOWIyN2RmN3wzMDAwMzc5OzMwMDAzNzk7MTY4NjM5MDMwMDswOzE2ODYzOTAwMDA7Vmlld2VyO3N2aWV3OjBfbGltMGJoM2Esc2V0cm9sZTpQTEFZQkFDS19CQVNFX1JPTEUsd2lkZ2V0OjE7Ow==&clientTag=html5:v2.55&uiConfId=30031088"
+
+},
+{
+
   "quality":"HD",
 
          "link":"https://oppk.topravideo.com/UpFiles/2023/6/7/42/257281/720p.m3u8"
 
 }
-
 ]
 
 },
