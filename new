@@ -232,17 +232,9 @@
 
 {
 
-  "quality":"SD",
+  "quality":"auto",
 
-         "link":""
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":""
+         "link":"https://hl.thapcam.link/hls/2light/bda/highlights/Bar-Vigo-050623.mp4/playlist.m3u8"
 
 }
 
