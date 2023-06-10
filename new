@@ -62,17 +62,9 @@
 
 {
 
-  "quality":"SD",
+  "quality":"auto",
 
-         "link":"https://foo.topravideo.com/UpFiles/2023/6/4/42/257106/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/6/4/42/257106/720p.m3u8"
+         "link":"https://hl.thapcam.link/hls/2light/bda/highlights/Rel-Ab-050623.mp4/playlist.m3u8"
 
 }
 
@@ -140,20 +132,11 @@
 
 {
 
-  "quality":"SD",
+  "quality":"auto",
 
-         "link":"https://foo.topravideo.com/UpFiles/2023/6/4/51/257165/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/6/4/51/257165/720p.m3u8"
+         "link":"https://hl.thapcam.link/hls/2light/bda/highlights/hl-rom-spe-5623.mp4/playlist.m3u8"
 
 }
-
 ]
 
 }, 
@@ -179,17 +162,9 @@
 
 {
 
-  "quality":"SD",
+  "quality":"auto",
 
-         "link":"https://foo.topravideo.com/UpFiles/2023/6/4/42/257159/360p.m3u8"
-
-},
-
-{
-
-  "quality":"HD",
-
-         "link":"https://foo.topravideo.com/UpFiles/2023/6/4/42/257159/720p.m3u8"
+         "link":"https://hl.thapcam.link/hls/2light/bda/highlights/Ju-Udi-050623.mp4/playlist.m3u8"
 
 }
 
@@ -481,12 +456,8 @@
       "ateam": "Man United",
       "hllink": [
         {
-          "quality": "SD",
-          "link": "https://foo.topravideo.com/UpFiles/2023/6/3/42/256984/360p.m3u8"
-        },
-        {
-          "quality": "HD",
-          "link": "https://foo.topravideo.com/UpFiles/2023/6/3/42/256984/720p.m3u8"
+          "quality": "auto",
+          "link": "https://hl.thapcam.link/hls/2light/bda/highlights/MU-MC-CON-030623.mp4/playlist.m3u8"
         }
       ]
     },
