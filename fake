@@ -1,6 +1,6 @@
 {
-    "status": true,
-    "mdata": [
+  "status": true,
+  "mdata": [
     {
       "league": "MAN U",
       "date": "TV Channel",
@@ -46,74 +46,63 @@
         }
       ]
     },
-       
-
-          
-
-           {
-
-           "league": "🏆 Champion League Final",
-
-            "date": "June 11",
-
-            "time": "1:30 AM",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-
-            "teams" : "Manchester City Vs Inter",
-
-            "hteam" : "Manchester City",
-
-            "ateam" : "Inter",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
-                
-
-            ]
-
-}
-    ]
+    {
+      "league": "🏆 Champion League Final",
+      "date": "June 11",
+      "time": "1:30 AM",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "teams": "Manchester City Vs Inter",
+      "hteam": "Manchester City",
+      "ateam": "Inter",
+      "hotmat": "yes",
+      "link": [
+        {
+          "type": "SD",
+          "livelink": ""
+        },
+        {
+          "type": "SD 2",
+          "livelink": ""
+        },
+        {
+          "type": "HD",
+          "livelink": ""
+        },
+        {
+          "type": "HD 2",
+          "livelink": ""
+        }
+      ]
+    },
+    {
+      "league": "🏆 AFC U20 Women's Asian Cup",
+      "date": "June 10",
+      "time": "04:30 PM",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
+      "teams": "China(w) Vs Myanmar(w)",
+      "hteam": "China",
+      "ateam": "Myanmar",
+      "hotmat": "no",
+      "link": [
+        {
+          "type": "SD",
+          "livelink": ""
+        },
+        {
+          "type": "SD 2",
+          "livelink": ""
+        },
+        {
+          "type": "HD",
+          "livelink": ""
+        },
+        {
+          "type": "HD 2",
+          "livelink": ""
+        }
+      ]
+    }
+  ]
 }
