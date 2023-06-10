@@ -49,7 +49,7 @@
     {
       "league": "🏆 Champion League Final",
       "date": "June 11",
-      "time": "1:30 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
       "teams": "Manchester City Vs Inter",
@@ -59,19 +59,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1686443739-0-0-e1616dbfba8d1a9f360951961eeafbf6&user_session_id=3de494964b1fe46d688b4a1729e1dd7e"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-360663_lsd.m3u8?txSecret=664feb14c8761743b429e8852d652680&txTime=648517cb"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?user_session_id=f0d37b7a4e5d7d0dff329ff83d093a85&edge_slice=true&sub_m3u8=true&auth_key=1686443739-0-0-0d32941d293b1a0fe314aa86675c2eca"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=664feb14c8761743b429e8852d652680&txTime=648517cb"
         }
       ]
     },
@@ -88,19 +88,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1686443739-0-0-e1616dbfba8d1a9f360951961eeafbf6&user_session_id=3de494964b1fe46d688b4a1729e1dd7e"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-360663_lsd.m3u8?txSecret=664feb14c8761743b429e8852d652680&txTime=648517cb"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?user_session_id=f0d37b7a4e5d7d0dff329ff83d093a85&edge_slice=true&sub_m3u8=true&auth_key=1686443739-0-0-0d32941d293b1a0fe314aa86675c2eca"
         },
         {
           "type": "HD 2",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=664feb14c8761743b429e8852d652680&txTime=648517cb"
         }
       ]
     }
