@@ -42,8 +42,7 @@
         {
           "quality": "HD2",
           "link": "https://proxy-05.sg1.dailymotion.com/sec(5D-upqDJxZ7oMdF5vyvZyJ3QEaYlSF4yxms5Bme7oBhP1Nq-KA7qnWVShGIfiqE5ABFBLf0ufa7RNfrstRKmCtHsHU0TuFS-XOPQwAChUVw)/video/267/700/520007762_mp4_h264_aac_hd_hfr_5.m3u8"
-        },
-        
+        }
       ]
     },
     {
@@ -652,11 +651,11 @@
       "hllink": [
         {
           "quality": "SD",
-          "link": " https://foo.topravideo.com/UpFiles/2023/5/28/42/256798/360p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256798/360p.m3u8"
         },
         {
           "quality": "HD 2",
-          "link": " https://foo.topravideo.com/UpFiles/2023/5/28/42/256798/720p.m3u8"
+          "link": "https://foo.topravideo.com/UpFiles/2023/5/28/42/256798/720p.m3u8"
         }
       ]
     },
