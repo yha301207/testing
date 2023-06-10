@@ -12,39 +12,7 @@
             "ateam": "Inter",
             "hotmat": "yes",
             "link": [
-                {
-                    "type": "SD",
-                    "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "SD 2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-360663_lsd.m3u8?txSecret=664feb14c8761743b429e8852d652680&txTime=648517cb"
-                },
-                {
-                    "type": "SOCO SD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-360663_lsd.m3u8?txSecret=bccd7d72e4efbc103dffa88c72dc7863&txTime=64851e5b"
-                },
-                {
-                    "type": "HD",
-                    "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?user_session_id=f0d37b7a4e5d7d0dff329ff83d093a85&edge_slice=true&sub_m3u8=true&auth_key=1686443739-0-0-0d32941d293b1a0fe314aa86675c2eca"
-                },
-                {
-                    "type": "SOCO HD",
-                    "livelink": "https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=bccd7d72e4efbc103dffa88c72dc7863&txTime=64851e5b"
-                },
-                {
-                    "type": "HD 2",
-                    "livelink": "https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=664feb14c8761743b429e8852d652680&txTime=648517cb"
-                },
-                {
-                    "type": "HD 3",
-                    "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                },
-                
-                {
-                    "type": "FHD",
-                    "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-                },
+               
                 {
                     "type": "Spaish Auto",
                     "livelink": "https://dj6cptj5usi91.cloudfront.net/out/v1/863442d46c224a549c25b67f3ae7369f/index_3.m3u8"
