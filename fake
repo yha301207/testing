@@ -46,24 +46,7 @@
         }
       ]
     },
-        {
-            "league": "🏆 Champion League Final",
-            "date": "June 11",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams": "Manchester City Vs Inter",
-            "hteam": "Manchester City",
-            "ateam": "Inter",
-            "hotmat": "yes",
-            "link": [
-               
-                {
-                    "type": "Spaish Auto",
-                    "livelink": "https://dj6cptj5usi91.cloudfront.net/out/v1/863442d46c224a549c25b67f3ae7369f/index_3.m3u8"
-                }
-            ]
-        },
+        
         {
             "league": "🏆 Serie A Relegation Final",
             "date": "June 12",
