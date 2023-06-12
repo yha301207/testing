@@ -44,12 +44,8 @@
       "ateam": "West Ham United",
       "hllink": [
         {
-          "quality": "SD",
-          "link": "https://oppk.topravideo.com/UpFiles/2023/6/7/42/257281/360p.m3u8"
-        },
-        {
-          "quality": "HD",
-          "link": "https://oppk.topravideo.com/UpFiles/2023/6/7/42/257281/720p.m3u8"
+          "quality": "Auto",
+          "link": "https://hl.thapcam.link/hls/2light/bda/highlights/Wh-Fio-080623.mp4/playlist.m3u8"
         }
       ]
     },
