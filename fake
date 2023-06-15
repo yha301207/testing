@@ -49,7 +49,7 @@
     {
       "league": "🏆 International Friendly Games",
       "date": "June 15",
-      "time": "4:40 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",
       "teams": "Japan Vs El Salvador",
@@ -59,19 +59,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991132_lsd.m3u8?edge_slice=true&auth_key=1686843403-0-0-23818d3e6fe6879a4570f17b2673e2d7&sub_m3u8=true&user_session_id=a60dddb75c60af8fa8ea1bec3e91da67"
         },
         {
           "type": "SD 2",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991132_lsd.m3u8?edge_slice=true&auth_key=1686843580-0-0-946b974b7ce9737eb09e3f006e79a2d7&sub_m3u8=true&user_session_id=39b5369c0a6d6f152771f4587c0e6ccf"
         },
         {
           "type": "HD",
-          "livelink": "https://fotlive.xyz:443/fotlive/fotlive/8442"
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991132_lhd.m3u8?sub_m3u8=true&auth_key=1686843403-0-0-925d4117cbfb76c5d85fc2a1c6f9dee1&user_session_id=4e446898910d83547afb77f71723b366&edge_slice=true"
         },
         {
           "type": "HD 2",
-          "livelink": "https://fotlive.xyz:443/fotlive/fotlive/8443"
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991132_lhd.m3u8?edge_slice=true&auth_key=1686843580-0-0-a808873a2b92d94877f385bf6c4b85c2&sub_m3u8=true&user_session_id=d55f82d010349515cd965ef0ef92971f"
         }
       ]
     },
