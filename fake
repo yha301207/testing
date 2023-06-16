@@ -116,16 +116,20 @@
       "hotmat": "no",
       "link": [
         {
-          "type": "720 HD",
-          "livelink": "0"
+          "type": "SD",
+          "livelink": ""
         },
         {
-          "type": "480HD",
-          "livelink": "0"
+          "type": "SD2",
+          "livelink": ""
         },
         {
-          "type": "320SD",
-          "livelink": "0"
+          "type": "HD",
+          "livelink": ""
+        },
+{
+          "type": "HD2",
+          "livelink": ""
         }
       ]
     },
