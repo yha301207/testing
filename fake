@@ -46,7 +46,43 @@
         }
       ]
     },
-   
+    {
+      "league": "EURO 2024 Qualification",
+      "date": "june 16",
+      "time": "live",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
+      "teams": "Finland Vs Slovenia",
+      "hteam": "Finland",
+      "ateam": "Slovenia",
+      "hotmat": "no",
+      "link": [
+        {
+          "type": "SD",
+          "livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=b16dee0fc589728cd7ce4b73d7d495da&txTime=648cd5e8"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://iptv.fotlive.xyz:443/fotlive/fotlive/10875"
+        },
+        {
+          "type": "HD 1",
+          "livelink": "https://iptv.fotlive.xyz:443/fotlive/fotlive/10876"
+        },
+        {
+          "type": "HD 2",
+          "livelink": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=b16dee0fc589728cd7ce4b73d7d495da&txTime=648cd5e8"
+        },
+        {
+          "type": "HD3",
+          "livelink": "https://iptv.fotlive.xyz:443/fotlive/fotlive/9908"
+        },
+        {
+          "type": "FHD",
+          "livelink": "https://iptv.fotlive.xyz:443/fotlive/fotlive/10877"
+        }
+      ]
+    },
     {
       "league": "Friendlies",
       "date": "june 16",
@@ -70,7 +106,7 @@
           "type": "HD",
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6c8649e14da5a614a35b4adc9f730db6&auth_key=1686956260-0-0-235d3db271c1d10a44f7fe10c7e2fa9b"
         },
-{
+        {
           "type": "HD2",
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-319191_lhd.m3u8?user_session_id=a6aa4b3a1281ebf332b191fa8cf41aca&sub_m3u8=true&edge_slice=true&auth_key=1686956260-0-0-db6e000c8228cd491592622d86c48a01"
         }
