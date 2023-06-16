@@ -46,64 +46,7 @@
         }
       ]
     },
-    {
-      "league": "🏆 International Friendlies",
-      "date": "June 16",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-      "teams": "China Vs Myanmar",
-      "hteam": "China",
-      "ateam": "Myanmar",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?edge_slice=true&user_session_id=f14c8550859b0f3db3f0d75c04b55f47&sub_m3u8=true&auth_key=1686939220-0-0-d74f92f70cc10f40e6b97710d7c97653"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lsd.m3u8?auth_key=1686939580-0-0-ed898e7beb84b6389e62d2736d83e95f&edge_slice=true&sub_m3u8=true&user_session_id=1d89a3b8c8da8c1d8644d848a86151f8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?edge_slice=true&user_session_id=090491a5abde6b47168894df9e9dc31d&sub_m3u8=true&auth_key=1686939220-0-0-fb69496fc2395e49420833e8d8f81c19"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686939580-0-0-a464b6caa05fee9aaf0bfe59c816263a&edge_slice=true&sub_m3u8=true&user_session_id=6970f44ff54dccb367961a4d83190d69"
-        }
-      ]
-    },
-    {
-      "league": "🏆 International Friendlies",
-      "date": "June 16",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
-      "teams": "South Korea Vs Peru",
-      "hteam": "South Korea",
-      "ateam": "Peru",
-      "hotmat": "no",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=b2c0311afd09fb9983aa458e6819602f&txTime=648ca8e8"
-        },
-        {
-          "type": "SD 2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=aa123805bf4778862f4da21a9e8985b0&auth_key=1686939820-0-0-747e3a1569df447dd6509c49e87caacc"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=b2c0311afd09fb9983aa458e6819602f&txTime=648ca8e8"
-        },
-        {
-          "type": "HD 2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=508fe73ff6ea99b375050e7ef61be2ac&auth_key=1686939820-0-0-9284c18b094a1b13e2e7f4e7f360a8fc"
-        }
-      ]
-    },
+   
     {
       "league": "Friendlies",
       "date": "june 16",
