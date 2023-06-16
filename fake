@@ -50,7 +50,7 @@
     {
       "league": "Friendlies",
       "date": "june 16",
-      "time": "11:30PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5820_small.png",
       "teams": "Sweden Vs New Zealand",
@@ -60,19 +60,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?user_session_id=4297a24b329cdc6428d98f9267a4ed71&sub_m3u8=true&edge_slice=true&auth_key=1686956260-0-0-9b6c3795a3537e7e9252d1dce5a74ce2"
         },
         {
           "type": "SD2",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-319191_lsd.m3u8?auth_key=1686956260-0-0-d60d77140468ed371bfec3cf05110540&sub_m3u8=true&edge_slice=true&user_session_id=135d89f487f5a84e82f737696c8f3211"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6c8649e14da5a614a35b4adc9f730db6&auth_key=1686956260-0-0-235d3db271c1d10a44f7fe10c7e2fa9b"
         },
 {
           "type": "HD2",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-319191_lhd.m3u8?user_session_id=a6aa4b3a1281ebf332b191fa8cf41aca&sub_m3u8=true&edge_slice=true&auth_key=1686956260-0-0-db6e000c8228cd491592622d86c48a01"
         }
       ]
     },
