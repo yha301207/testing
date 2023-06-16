@@ -64,7 +64,7 @@
         },
         {
           "type": "SD 2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=47b237c5a45eaf8d65e4ca4b3698dd3a&auth_key=1686858640-0-0-ca6741e1542278a22cd8baf6ed59c26e"
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lsd.m3u8?auth_key=1686939580-0-0-ed898e7beb84b6389e62d2736d83e95f&edge_slice=true&sub_m3u8=true&user_session_id=1d89a3b8c8da8c1d8644d848a86151f8"
         },
         {
           "type": "HD",
@@ -72,9 +72,39 @@
         },
         {
           "type": "HD 2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=82c16d29285b5d45ae7ce5c8a5577823&auth_key=1686858640-0-0-7c982ce5c2b5b267d8873aef43061a52"
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686939580-0-0-a464b6caa05fee9aaf0bfe59c816263a&edge_slice=true&sub_m3u8=true&user_session_id=6970f44ff54dccb367961a4d83190d69"
+        }
+      ]
+    },
+{
+      "league": "🏆 International Friendlies",
+      "date": "June 16",
+      "time": "live",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
+      "teams": "South Korea Vs Peru",
+      "hteam": "South Korea",
+      "ateam": "Peru",
+      "hotmat": "no",
+      "link": [
+        {
+          "type": "SD",
+          "livelink": "https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=b2c0311afd09fb9983aa458e6819602f&txTime=648ca8e8"
+        },
+        {
+          "type": "SD 2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=aa123805bf4778862f4da21a9e8985b0&auth_key=1686939820-0-0-747e3a1569df447dd6509c49e87caacc"
+        },
+        {
+          "type": "HD",
+          "livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=b2c0311afd09fb9983aa458e6819602f&txTime=648ca8e8"
+        },
+        {
+          "type": "HD 2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=508fe73ff6ea99b375050e7ef61be2ac&auth_key=1686939820-0-0-9284c18b094a1b13e2e7f4e7f360a8fc"
         }
       ]
     }
+	
   ]
 }
