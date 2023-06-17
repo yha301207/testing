@@ -1,8 +1,6 @@
 {
   "status": true,
   "mdata": [
-
-  
     {
       "league": "🏆 EURO Qualification",
       "date": "June 18",
@@ -74,19 +72,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1687049380-0-0-1cf7132bc783e68145fabfda0385be56&user_session_id=f5d93c388b05772926ef701e891c4321&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-239521_lsd.m3u8?user_session_id=c21ad90662787aaab488b3fa2c8016d7&auth_key=1687049440-0-0-3ea0884892cf37a69ac09c856b7a2eeb&sub_m3u8=true&edge_slice=true"
         },
         {
-          "type": "HD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-239521_lhd_674.ts?vhost=pull06.scstream.net&edge_slice=true"
         },
         {
-          "type": "FHD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687049380-0-0-6131d315e7c7495fd9a79543355ffc91&user_session_id=1714d9646827c123db785a77456641e3&sub_m3u8=true&edge_slice=true"
         }
       ]
     },
@@ -101,26 +99,25 @@
       "ateam": "Austria",
       "hotmat": "yes",
       "link": [
- 
         {
           "type": "SD Vietnam",
           "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
         },
-{
+        {
           "type": "SD",
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?user_session_id=36b2572599f2c135b6b9740d3029bd14&edge_slice=true&sub_m3u8=true&auth_key=1687047040-0-0-97e09a13824845435d0f30dc0c800289"
         },
         {
-          "type": "HD",
-          "livelink": ""
+          "type": "SD2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?user_session_id=4bb2be69bd92baa9969a2c67f2a6eb38&auth_key=1687049200-0-0-411cbb7066183cb52f2eb7a38e55d841&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd_4005.ts?vhost=pull06.scstream.net&edge_slice=true"
         },
         {
-          "type": "FHD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd_316.ts?vhost=pull06.scstream.net&edge_slice=true"
         }
       ]
     },
@@ -130,26 +127,26 @@
       "time": "1:15 AM",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
-      "teams": "Iceland Vs Slovakia",
+      "teams": "live",
       "hteam": "Iceland",
       "ateam": "Slovakia",
       "hotmat": "no",
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?auth_key=1687049020-0-0-866a091f3609e7ffc716519c201e02a6&edge_slice=true&sub_m3u8=true&user_session_id=f22a0961d3029533946b6f41473f3e09"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-452823_lsd.m3u8?user_session_id=49d523d2e1ef8a0c89224f565e9d34e7&auth_key=1687049140-0-0-d1f64076df50c9773b4e53c64e2ac6e1&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd_135.ts?vhost=pull06.scstream.net&edge_slice=true"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "FHD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-452823_lhd_714.ts?vhost=pull06.scstream.net&edge_slice=true"
         }
       ]
     },
@@ -164,12 +161,11 @@
       "ateam": "Bosnia and Herzegovina",
       "hotmat": "yes",
       "link": [
-
         {
           "type": "SD Vietnam",
           "livelink": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8"
         },
-{
+        {
           "type": "SD Soco",
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lsd.m3u8?auth_key=1687047100-0-0-34b6c303b65f2ed65c9a41594004a736&edge_slice=true&sub_m3u8=true&user_session_id=3eec16bb0e54355a1f05ec324ddacce3"
         },
@@ -177,7 +173,7 @@
           "type": "SD2",
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?auth_key=1687047220-0-0-8ceaf93e44352c26e3c25b04b4b7ee68&edge_slice=true&sub_m3u8=true&user_session_id=0004ffa3a7cee368310dba5231c17028"
         },
-{
+        {
           "type": "HD Vietnam",
           "livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
         },
