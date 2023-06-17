@@ -141,12 +141,12 @@
           "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-452823_lsd.m3u8?user_session_id=49d523d2e1ef8a0c89224f565e9d34e7&auth_key=1687049140-0-0-d1f64076df50c9773b4e53c64e2ac6e1&sub_m3u8=true&edge_slice=true"
         },
         {
-          "type": "HD",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd_135.ts?vhost=pull06.scstream.net&edge_slice=true"
+          "type": "SD Vietnam",
+          "livelink": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h6kx4zrz8/chunklist_w1471470067.m3u8"
         },
         {
           "type": "HD2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-452823_lhd_714.ts?vhost=pull06.scstream.net&edge_slice=true"
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-452823_lhd.m3u8?sub_m3u8=true&auth_key=1687049680-0-0-686530ea52d82d5e05d9ca7b966c1386&user_session_id=2dfacf7667c13c7164b4219c6b2d9d33&edge_slice=true"
         }
       ]
     },
