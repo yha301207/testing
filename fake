@@ -11,14 +11,14 @@
       "hteam": "Lithuania",
       "ateam": "Bulgaria",
       "hotmat": "no",
-      "hllink": [
+      "link": [
         {
-          "quality": "SD",
-          "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+          "type": "Auto English",
+          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
         },
         {
-          "quality": "HD",
-          "link": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+          "type": "HD English",
+          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
         }
       ]
     },
