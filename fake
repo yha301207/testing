@@ -58,7 +58,7 @@
     {
       "league": "🏆 EURO Qualification",
       "date": "June 17",
-      "time": "10:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
       "teams": "Norway Vs Scotland",
@@ -66,21 +66,25 @@
       "ateam": "Scotland",
       "hotmat": "yes",
       "link": [
+{
+          "type": "HD English",
+          "livelink": "https://play.livenbastreams.xyz/playlist/stream_1.m3u8"
+        },
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=60f0e4680c85ec85def387096e394184&txTime=648e263c"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?user_session_id=d2755b4f5dbc8f76279e6540807a944a&auth_key=1687037500-0-0-a21dbad3c1bec3a55f015a6aaf71cf26&sub_m3u8=true&edge_slice=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://sports01.livnvess.com/live/stream-991114_lhd-1687015820.ts?txspiseq=103039287764484593776"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "FHD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd_37.ts?vhost=pull06.scstream.net&edge_slice=true"
         }
       ]
     },
