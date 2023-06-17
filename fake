@@ -1,7 +1,29 @@
 {
   "status": true,
   "mdata": [
+	
     {
+      "league": "🏆 EURO Qualification",
+      "date": "June 17",
+      "time": "live",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",
+      "teams": "Luxembourg - Liechtenstein",
+      "hteam": "Liechtenstein",
+      "ateam": "Bulgaria",
+      "hotmat": "no",
+      "link": [
+        {
+          "type": "Auto English",
+          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+        },
+        {
+          "type": "HD English",
+          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+        }
+      ]
+    },
+{
       "league": "🏆 EURO Qualification",
       "date": "June 17",
       "time": "live",
