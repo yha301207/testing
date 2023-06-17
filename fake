@@ -13,13 +13,19 @@
       "ateam": "Bulgaria",
       "hotmat": "no",
       "link": [
-        {
-          "type": "Auto English",
-          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
-        },
+
+        
         {
           "type": "HD English",
           "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+        },
+{
+          "type": "SD",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lsd.m3u8?auth_key=1687034380-0-0-cd9ed1aae4acbdd47b6ebcbae2f6ec6d&sub_m3u8=true&user_session_id=6151b938fc9fa9e24dd4cee6d4261172&edge_slice=true"
+        },
+        {
+          "type": "HD",
+          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd_4337.ts?vhost=pull06.scstream.net&edge_slice=true"
         }
       ]
     },
@@ -34,13 +40,18 @@
       "ateam": "Bulgaria",
       "hotmat": "no",
       "link": [
-        {
-          "type": "Auto English",
-          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-        },
+        
         {
           "type": "HD English",
           "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+        },
+{
+          "type": "SD",
+          "livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=865f4e2a7a889745508cdd977104118c&txTime=648e1ac0"
+        },
+        {
+          "type": "HD",
+          "livelink": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=865f4e2a7a889745508cdd977104118c&txTime=648e1ac0"
         }
       ]
     },
