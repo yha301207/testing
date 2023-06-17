@@ -13,9 +13,14 @@
       "ateam": "Scotland",
       "hotmat": "yes",
       "link": [
+
 {
-          "type": "HD English",
+          "type": "HD1 English",
           "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+        },
+{
+          "type": "HD2 English",
+          "livelink": "https://sportsgala.one/live-ch11.m3u8?sportsgala.xy?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDQ6NTY6NDUgUE0maGFzaF92YWx1ZT1PRU1nL1l0Q09vZ3RKRVdlTTFKaDR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTA5OmJhYzU6NDkyZToxMDFlOjoxOWI6YiZzdHJtX2xlbj01"
         },
         {
           "type": "SD",
