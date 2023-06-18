@@ -7,7 +7,7 @@
     {
       "league": "🏆 International Friendly",
       "date": "June 18",
-      "time": "11:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/408231_small.png",
       "teams": "Egypt Vs South Sudan",
@@ -16,29 +16,22 @@
       "hotmat": "yes",
       "link": [
 
-{
-          "type": "SD Vietnam",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
-        },
-{
-          "type": "HD Vietnam",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
-        },
+
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?edge_slice=true&user_session_id=3e9b8b79116b3b382e2db5fbfff3a3da&sub_m3u8=true&auth_key=1687128280-0-0-4489bbc7f84125a38f557ea0ca37a99b"
         },
         {
           "type": "SD2",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?edge_slice=true&user_session_id=6e13babfe7be0f4ffa2659cce51582ad&sub_m3u8=true&auth_key=1687128220-0-0-bbd678c1364cccb599c09d939ce4daa3"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?edge_slice=true&auth_key=1687128280-0-0-864737997d1df3c390c54530b826de17&sub_m3u8=true&user_session_id=396755a1aea75c68350925143406a815"
         },
         {
           "type": "HD2",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?edge_slice=true&auth_key=1687128220-0-0-d2cec961a43b738ddb6d56651d9fe906&sub_m3u8=true&user_session_id=79425f8936553831115f61d8f1ffb22d"
         }
       ]
     },
