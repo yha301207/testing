@@ -1,56 +1,12 @@
 {
   "status": true,
   "mdata": [
-    {
-      "league": "MAN U",
-      "date": "TV Channel",
-      "time": "live",
-      "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-      "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-      "teams": "Man United TV",
-      "hteam": "MAN U",
-      "ateam": "TV",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-        },
-        {
-          "type": "SD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        },
-        {
-          "type": "FHD",
-          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "Real Madrid",
-      "date": "TV Channel",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "teams": "Real Madrid TV",
-      "hteam": "RealMadrid",
-      "ateam": "TV",
-      "link": [
-        {
-          "type": "Auto",
-          "livelink": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
-        }
-      ]
-    },
+   
     
     {
       "league": "🏆 UEFA Nations League A",
       "date": "June 18",
-      "time": "7:30 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
       "teams": "Netherlands Vs Italy",
@@ -60,19 +16,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1687112860-0-0-e5e76e37c67ee09f6bfe2cd94aef2266&edge_slice=true&user_session_id=03dda86693f27ce640c9f93d48537b44&sub_m3u8=true"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?auth_key=1687112800-0-0-14a9fa05d1a63af993b232bbc70b8b31&user_session_id=b4c2739638ffdf8437745857b5cc266c&edge_slice=true&sub_m3u8=true"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687112860-0-0-f99753f3448342ff734646d17394ddd3&edge_slice=true&user_session_id=0eb3913aead1ef72296d35a3319badb4&sub_m3u8=true"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687112800-0-0-486dad1651987f7c533ea38e033fc89e&user_session_id=a9920726ed6a138bae7f4ce6394f8135&edge_slice=true&sub_m3u8=true"
         }
       ]
     },
