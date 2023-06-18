@@ -3,48 +3,7 @@
   "mdata": [
    
     
-    {
-      "league": "🏆 UEFA Nations League A",
-      "date": "June 18",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
-      "teams": "Netherlands Vs Italy",
-      "hteam": "Netherlands",
-      "ateam": "Italy",
-      "hotmat": "yes",
-      "link": [
- 
-{
-          "type": "HD English",
-          "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-        },
-{
-          "type": "SD Vietnam",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
-        },
-{
-          "type": "HD Vietnam",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
-        },
-        {
-          "type": "SD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1687112860-0-0-e5e76e37c67ee09f6bfe2cd94aef2266&edge_slice=true&user_session_id=03dda86693f27ce640c9f93d48537b44&sub_m3u8=true"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?auth_key=1687112800-0-0-14a9fa05d1a63af993b232bbc70b8b31&user_session_id=b4c2739638ffdf8437745857b5cc266c&edge_slice=true&sub_m3u8=true"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687112860-0-0-f99753f3448342ff734646d17394ddd3&edge_slice=true&user_session_id=0eb3913aead1ef72296d35a3319badb4&sub_m3u8=true"
-        },
-        {
-          "type": "HD2",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687112800-0-0-486dad1651987f7c533ea38e033fc89e&user_session_id=a9920726ed6a138bae7f4ce6394f8135&edge_slice=true&sub_m3u8=true"
-        }
-      ]
-    },
+   
     {
       "league": "🏆 International Friendly",
       "date": "June 18",
@@ -56,12 +15,21 @@
       "ateam": "South Sudan",
       "hotmat": "yes",
       "link": [
+
+{
+          "type": "SD Vietnam",
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
+        },
+{
+          "type": "HD Vietnam",
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
+        },
         {
           "type": "SD",
           "livelink": ""
         },
         {
-          "type": "HD",
+          "type": "SD2",
           "livelink": ""
         },
         {
@@ -69,7 +37,7 @@
           "livelink": ""
         },
         {
-          "type": "HD",
+          "type": "HD2",
           "livelink": ""
         }
       ]
