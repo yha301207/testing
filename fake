@@ -2,50 +2,7 @@
   "status": true,
   "mdata": [
    
-    {
-      "league": "🏆 International Friendly",
-      "date": "June 19",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
-      "teams": "Indonesia Vs Argentina",
-      "hteam": "Indonesia",
-      "ateam": "Argentina",
-      "hotmat": "yes",
-      "link": [
-  
-{
-          "type": "Auto GOLD",
-          "livelink": "https://ed-n2.edghst.me/plyvivo/g0vixiseloparabopo2u/chunklist.m3u8"
-        },
-{
-          "type": "HD TyC",
-          "livelink": "https://play.livenbastreams.xyz/playlist/stream_1.m3u8"
-        },
-{
-          "type": "HD",
-          "livelink": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
-        },
-        {
-          "type": "SD",
-          "livelink": "https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=2d644f72f8b787ff21681ed01d9f39f5&txTime=6490b002"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://pull06.scstream.net/live/stream-991124_lsd.m3u8?auth_key=1687186022-0-0-492bd76ab7349c1b8776bbc77772396e"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=8dfde398198eed95c45365e066feb16d&txTime=6490b002"
-        },
-        {
-          "type": "HD2",
-          "livelink": " https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?sub_m3u8=true&auth_key=1687186022-0-0-fc1a88b85209a3579744c9d9f9389a49&user_session_id=1c46f1db5077b80d5d1bbe09a840815b&edge_slice=true"
-        }
-
-
-      ]
-    },
+   
     {
       "league": "🏆 EURO Qualification Grp. C",
       "date": "June 19",
