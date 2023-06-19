@@ -13,6 +13,10 @@
       "ateam": "Argentina",
       "hotmat": "yes",
       "link": [
+{
+          "type": "HD",
+          "livelink": "https://vod.vodgc.net/gid4/vod/TRISA/TyC___Sports/83/11-13605-582918-CKPdoZ1687178047142_480P.mp4/tracks-v1a1/index.m3u8"
+        }
         {
           "type": "SD",
           "livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?auth_key=1687180202-0-0-178db128bc6ae6c44af7af526a3cdfbd&edge_slice=true&sub_m3u8=true&user_session_id=cc48d20091616a56d6e578dc91f3c38c"
@@ -28,7 +32,9 @@
         {
           "type": "HD2",
           "livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&auth_key=1687180202-0-0-184ac2186fd8e8607b61aadbcf077b46&user_session_id=4e58f5cb66d7d83dc28906e28bef697e&edge_slice=true"
-        }
+        },
+
+
       ]
     },
     {
