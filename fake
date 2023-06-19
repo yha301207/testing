@@ -13,7 +13,11 @@
       "ateam": "Argentina",
       "hotmat": "yes",
       "link": [
- 
+  
+{
+          "type": "SD CUP",
+          "livelink": "https://ed-n2.edghst.me/plyvivo/g0vixiseloparabopo2u/chunklist.m3u8"
+        },
 {
           "type": "HD TyC",
           "livelink": "https://play.livenbastreams.xyz/playlist/stream_1.m3u8"
