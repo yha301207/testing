@@ -15,23 +15,23 @@
       "link": [
 {
           "type": "HD",
-          "livelink": "https://vod.vodgc.net/gid4/vod/TRISA/TyC___Sports/83/11-13605-582918-CKPdoZ1687178047142_480P.mp4/tracks-v1a1/index.m3u8"
+          "livelink": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
         },
         {
           "type": "SD",
-          "livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?auth_key=1687180202-0-0-178db128bc6ae6c44af7af526a3cdfbd&edge_slice=true&sub_m3u8=true&user_session_id=cc48d20091616a56d6e578dc91f3c38c"
+          "livelink": "https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=2d644f72f8b787ff21681ed01d9f39f5&txTime=6490b002"
         },
         {
           "type": "SD2",
-          "livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687180202-0-0-3cfa1243c78e6b2f78ca6e275c200caa&user_session_id=0ca7749a5713db3cc908862246772cd2"
+          "livelink": "https://pull06.scstream.net/live/stream-991124_lsd.m3u8?auth_key=1687186022-0-0-492bd76ab7349c1b8776bbc77772396e"
         },
         {
           "type": "HD",
-          "livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991121_lhd.m3u8?edge_slice=true&auth_key=1687180202-0-0-9804693714a2341ed85de7159df36d3e&sub_m3u8=true&user_session_id=b8b5774e199d4491d5103356c7200fa3"
+          "livelink": "https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=8dfde398198eed95c45365e066feb16d&txTime=6490b002"
         },
         {
           "type": "HD2",
-          "livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&auth_key=1687180202-0-0-184ac2186fd8e8607b61aadbcf077b46&user_session_id=4e58f5cb66d7d83dc28906e28bef697e&edge_slice=true"
+          "livelink": " https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?sub_m3u8=true&auth_key=1687186022-0-0-fc1a88b85209a3579744c9d9f9389a49&user_session_id=1c46f1db5077b80d5d1bbe09a840815b&edge_slice=true"
         }
 
 
