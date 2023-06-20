@@ -1,7 +1,36 @@
 {
   "status": true,
   "mdata": [
-
+	
+{
+      "league": "🏆 EURO Qualification Grp. F",
+      "date": "June 21",
+      "time": "live",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
+      "teams": "Austria Vs Sweden",
+      "hteam": "Austria",
+      "ateam": "Sweden",
+      "hotmat": "yes",
+      "link": [
+        {
+          "type": "SD",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?user_session_id=ca0c14f99c648ef0e4567886a800a9a9&sub_m3u8=true&auth_key=1687290182-0-0-a96bb56f5f02bfa883c40cdb98b0756e&edge_slice=true"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://pull01.rrwes.live/live/stream-276100_lsd.m3u8?txSecret=b30c943c97291f38f70b23b372e92ec6&txTime=649247d2"
+        },
+        {
+          "type": "HD",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?user_session_id=8c466635be00e828917a76ad3f3ba27f&sub_m3u8=true&auth_key=1687290182-0-0-f2e85fb83bbebf1c874bdedd587ff9a1&edge_slice=true"
+        },
+        {
+          "type": "HD2",
+          "livelink": "https://pull01.rrwes.live/live/stream-276100_lhd.m3u8?txSecret=e87769f142cb9b6b90d57337e3af122d&txTime=649247d2"
+        }
+      ]
+    },
     {
       "league": "🏆 EURO Qualification Grp. A",
       "date": "June 21",
