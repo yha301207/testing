@@ -31,15 +31,16 @@
         }
       ]
     },
+    
     {
       "league": "🏆 International Friendly",
       "date": "June 20",
-      "time": "04:30 PM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6333_small.png",
-      "teams": "China Vs Palestine",
-      "hteam": "China",
-      "ateam": "Palestine",
+      "time": "5:30 PM",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",
+      "teams": "South Korea Vs El Salvador",
+      "hteam": "South Korea",
+      "ateam": "El Salvador",
       "hotmat": "yes",
       "link": [
         {
@@ -60,15 +61,15 @@
         }
       ]
     },
-    {
+{
       "league": "🏆 International Friendly",
       "date": "June 20",
-      "time": "5:30 PM",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",
-      "teams": "South Korea Vs El Salvador",
-      "hteam": "South Korea",
-      "ateam": "El Salvador",
+      "time": "06:05 PM",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6333_small.png",
+      "teams": "China Vs Palestine",
+      "hteam": "China",
+      "ateam": "Palestine",
       "hotmat": "yes",
       "link": [
         {
