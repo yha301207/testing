@@ -63,7 +63,7 @@
     {
       "league": "🏆 EURO Qualification Grp. E",
       "date": "June 21",
-      "time": "1:15 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
       "teams": "Moldova Vs Poland",
@@ -72,8 +72,8 @@
       "hotmat": "yes",
       "link": [
         {
-          "type": "SD",
-          "livelink": ""
+          "type": "SD Vietnam",
+          "livelink": "https://1123139281.cdn.khmer-hd.com/may7/playlist.m3u8"
         },
         {
           "type": "HD",
@@ -92,7 +92,7 @@
     {
       "league": "🏆 EURO Qualification Grp. F",
       "date": "June 21",
-      "time": "1:15 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8261_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
       "teams": "Estonia Vs Belgium",
@@ -102,26 +102,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
+          "type": "FHD",
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8"
         }
       ]
     },
     {
       "league": "🏆 EURO Qualification Grp. J",
       "date": "June 21",
-      "time": "1:15 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
       "teams": "Iceland Vs Portugal",
@@ -131,26 +131,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "ttps://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
+          "type": "FHD",
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
         }
       ]
     },
     {
       "league": "🏆 International Friendly",
       "date": "June 21",
-      "time": "1:15 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
       "teams": "Germany Vs Colombia",
@@ -160,26 +160,26 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
+          "type": "FHD",
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
         }
       ]
     },
     {
       "league": "🏆 International Friendly",
       "date": "June 21",
-      "time": "1:30 AM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
       "teams": "Brazil Vs Senegal",
@@ -188,20 +188,20 @@
       "hotmat": "yes",
       "link": [
         {
-          "type": "SD",
-          "livelink": ""
+          "type": "SD Vietnam",
+          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
         },
         {
-          "type": "HD",
-          "livelink": ""
+          "type": "SD2",
+          "livelink": "https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=b5fdbfb44282188ce2677054343c8b07&txTime=649240ca"
         },
         {
-          "type": "HD",
-          "livelink": ""
+          "type": "HD Vietnam",
+          "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
         },
         {
-          "type": "HD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=afea7dcc55724c19ebc43b72e0cad0f8&txTime=649240ca"
         }
       ]
     }
