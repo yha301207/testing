@@ -74,7 +74,7 @@
 {
       "league": "🏆 International Friendly",
       "date": "June 20",
-      "time": "06:05 PM",
+      "time": "live",
       "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
       "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6333_small.png",
       "teams": "China Vs Palestine",
@@ -84,19 +84,19 @@
       "link": [
         {
           "type": "SD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?sub_m3u8=true&auth_key=1687264382-0-0-18782ce35baffdc6ae9b67da2ceed305&edge_slice=true&user_session_id=9948296900f6596616b3585be3a15e26"
+        },
+        {
+          "type": "SD2",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?sub_m3u8=true&auth_key=1687264322-0-0-ea8d4ea269affc566ce9db3c21b4ddda&edge_slice=true&user_session_id=e476d8ef460f53f231b12cacf722fd1f"
         },
         {
           "type": "HD",
-          "livelink": ""
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?sub_m3u8=true&auth_key=1687264382-0-0-1c4be77ac78d13dadc79ff2abee777f8&edge_slice=true&user_session_id=8a5c1ba05fbdf45f438eb8c5f4360d4b"
         },
         {
-          "type": "HD",
-          "livelink": ""
-        },
-        {
-          "type": "HD",
-          "livelink": ""
+          "type": "HD2",
+          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?sub_m3u8=true&auth_key=1687264322-0-0-bd73b5ce72addc180c548f4225bd8ab3&edge_slice=true&user_session_id=1dbad05176964a161de98e1a4853eb20"
         }
       ]
     },
