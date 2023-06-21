@@ -3,233 +3,47 @@
   "mdata": [
 	
 {
-      "league": "🏆 EURO Qualification Grp. F",
-      "date": "June 21",
+      "league": "MAN U",
+      "date": "TV Channel",
       "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
-      "teams": "Austria Vs Sweden",
-      "hteam": "Austria",
-      "ateam": "Sweden",
+      "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+      "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+      "teams": "Man United TV",
+      "hteam": "MAN U",
+      "ateam": "TV",
       "hotmat": "yes",
       "link": [
         {
           "type": "SD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?user_session_id=ca0c14f99c648ef0e4567886a800a9a9&sub_m3u8=true&auth_key=1687290182-0-0-a96bb56f5f02bfa883c40cdb98b0756e&edge_slice=true"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://pull01.rrwes.live/live/stream-276100_lsd.m3u8?txSecret=b30c943c97291f38f70b23b372e92ec6&txTime=649247d2"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?user_session_id=8c466635be00e828917a76ad3f3ba27f&sub_m3u8=true&auth_key=1687290182-0-0-f2e85fb83bbebf1c874bdedd587ff9a1&edge_slice=true"
-        },
-        {
-          "type": "HD2",
-          "livelink": "https://pull01.rrwes.live/live/stream-276100_lhd.m3u8?txSecret=e87769f142cb9b6b90d57337e3af122d&txTime=649247d2"
-        }
-      ]
-    },
-    {
-      "league": "🏆 EURO Qualification Grp. A",
-      "date": "June 21",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_small.png",
-      "teams": "Norway Vs Cyprus",
-      "hteam": "Norway",
-      "ateam": "Cyprus",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&auth_key=1687289582-0-0-509961b563988208e1eccfcd1d8398de&edge_slice=true&user_session_id=a4628eddd369840bd02bb1c7b52fe377"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991135_lsd.m3u8?sub_m3u8=true&auth_key=1687289522-0-0-2b08548095920dc59882803576e899ab&edge_slice=true&user_session_id=ddbb14f1052ed2f3f27786a974b8d32f"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?sub_m3u8=true&auth_key=1687289582-0-0-80982dbfb01094e873d2feb4130dc27e&edge_slice=true&user_session_id=2beaf9f4d66a6b0f436d326c462f4eb5"
-        },
-        {
-          "type": "HD2",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991135_lhd.m3u8?sub_m3u8=true&auth_key=1687289522-0-0-d32d50e71a3aeb918f9d5247160952cd&edge_slice=true&user_session_id=6530f81e1b10d51020636b6392d849ef"
-        }
-      ]
-    },
-    {
-      "league": "🏆 EURO Qualification Grp. A",
-      "date": "June 21",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
-      "teams": "Scotland Vs Georgia",
-      "hteam": "Scotland",
-      "ateam": "Georgia",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?sub_m3u8=true&auth_key=1687289702-0-0-ca6feae41a61dbaf31eb4a672f5323f8&edge_slice=true&user_session_id=bd2c53459b3ca2017af9e45e67844b59"
-        },
-{
-          "type": "SD2",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-344687_lsd.m3u8?user_session_id=4aad7f837b35a6feb1c063854c025c96&auth_key=1687289762-0-0-f36c99e61a145e6e91fffc5d234358fd&edge_slice=true&sub_m3u8=true"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?sub_m3u8=true&auth_key=1687289702-0-0-85dc7b3baf79429b31a7090904f27930&edge_slice=true&user_session_id=e3075a760e2a96380fedff933c0ad658"
-        },
-
-        {
-          "type": "HD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-344687_lhd.m3u8?user_session_id=cb55942f69a8e30d8997803d3a1d18eb&auth_key=1687289762-0-0-bc3355f791a5466bbc553cc68ba91279&edge_slice=true&sub_m3u8=true"
-        }
-
-      ]
-    },
-    {
-      "league": "🏆 EURO Qualification Grp. E",
-      "date": "June 21",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
-      "teams": "Moldova Vs Poland",
-      "hteam": "Moldova",
-      "ateam": "Poland",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD Vietnam",
-          "livelink": "https://1123139281.cdn.khmer-hd.com/may7/playlist.m3u8"
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
         },
         {
           "type": "SD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?auth_key=1687289882-0-0-ef442c11fa6f2aeed583ee4a8609b19e&user_session_id=3926648750cfed4b03737c5331924eab&edge_slice=true&sub_m3u8=true"
-        },
-        
-        {
-          "type": "HD",
-          "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?user_session_id=ab10001d5c0a3277ba8b67656312eefb&auth_key=1687289882-0-0-913c99ebd31a556d0b630152d192088f&edge_slice=true&sub_m3u8=true"
-        }
-      ]
-    },
-    {
-      "league": "🏆 EURO Qualification Grp. F",
-      "date": "June 21",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8261_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
-      "teams": "Estonia Vs Belgium",
-      "hteam": "Estonia",
-      "ateam": "Belgium",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/playlist.m3u8"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/playlist.m3u8"
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
         },
         {
           "type": "HD",
-          "livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
         },
         {
           "type": "FHD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8"
+          "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
         }
       ]
     },
     {
-      "league": "🏆 EURO Qualification Grp. J",
-      "date": "June 21",
+      "league": "Real Madrid",
+      "date": "TV Channel",
       "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-      "teams": "Iceland Vs Portugal",
-      "hteam": "Iceland",
-      "ateam": "Portugal",
-      "hotmat": "yes",
+      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "teams": "Real Madrid TV",
+      "hteam": "RealMadrid",
+      "ateam": "TV",
       "link": [
         {
-          "type": "SD",
-          "livelink": "ttps://obevcimanyd179314182.thapcam.link/live/mySD/playlist.m3u8"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8"
-        },
-        {
-          "type": "FHD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "🏆 International Friendly",
-      "date": "June 21",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
-      "teams": "Germany Vs Colombia",
-      "hteam": "Germany",
-      "ateam": "Colombia",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/playlist.m3u8"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/playlist.m3u8"
-        },
-        {
-          "type": "HD",
-          "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-        },
-        {
-          "type": "FHD",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "league": "🏆 International Friendly",
-      "date": "June 21",
-      "time": "live",
-      "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
-      "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
-      "teams": "Brazil Vs Senegal",
-      "hteam": "Brazil",
-      "ateam": "Senegal",
-      "hotmat": "yes",
-      "link": [
-        {
-          "type": "SD Vietnam",
-          "livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/playlist.m3u8"
-        },
-        {
-          "type": "SD2",
-          "livelink": "https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=b5fdbfb44282188ce2677054343c8b07&txTime=649240ca"
-        },
-        {
-          "type": "HD Vietnam",
-          "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-        },
-        {
-          "type": "HD2",
-          "livelink": "https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=afea7dcc55724c19ebc43b72e0cad0f8&txTime=649240ca"
+          "type": "Auto",
+          "livelink": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8"
         }
       ]
     }
